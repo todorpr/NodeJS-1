@@ -1,0 +1,44 @@
+{
+    "all_users": [
+        {
+            "user": "Memo",
+            "userId": 1,
+            "chirps": 0
+        },
+        {
+            "user": "Todor",
+            "userId": 2,
+            "chirps": 0
+        },
+        {
+            "user": "Zizo",
+            "userId": 3,
+            "chirps": 0
+        },
+        {
+            "user": "Alan",
+            "userId": 4,
+            "chirps": 0
+        }
+    ],
+    "all_chirps": [
+        {
+            "userId": 3,
+            "chirpId": 1,
+            "chirpText": "Mmmmm",
+            "chirpTime": "2014-10-13T20:28:37.489Z"
+        },
+        {
+            "userId": 3,
+            "chirpId": 2,
+            "chirpText": "Vvvv",
+            "chirpTime": "2014-10-13T20:28:39.009Z"
+        },
+        {
+            "userId": 3,
+            "chirpId": 3,
+            "chirpText": "Bbbb",
+            "chirpTime": "2014-10-13T20:28:55.569Z"
+        }
+    ]
+}
