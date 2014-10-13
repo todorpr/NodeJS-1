@@ -1,0 +1,5 @@
+git status
+git commit -m="Some message text"
+git add -all
+git pull https://github.com/todorpr/NodeJS-1.git
+git push origin master
