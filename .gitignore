@@ -9,7 +9,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Node modules
-node_modules
+/**/node_modules/**/*
 
 # Idea 
 .idea
