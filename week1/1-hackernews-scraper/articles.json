@@ -1,0 +1,2363 @@
+{
+    "8452381": {
+        "by": "emcarey",
+        "id": 8452380,
+        "kids": [
+            8452402
+        ],
+        "parent": 8452284,
+        "text": "&gt;&gt;  <a href=\"https://prism.com/\" rel=\"nofollow\">https:&#x2F;&#x2F;prism.com&#x2F;</a>",
+        "time": 1413273715,
+        "type": "comment",
+        "processed": false
+    },
+    "8452382": {
+        "by": "blisse",
+        "id": 8452381,
+        "parent": 8452334,
+        "text": "Pattern matching the audio wave or video bitmap frame-by-frame.",
+        "time": 1413273723,
+        "type": "comment",
+        "processed": false
+    },
+    "8452383": {
+        "by": "colinramsay",
+        "id": 8452382,
+        "parent": 8452323,
+        "text": "I agree with andwaal that reflux is the simplest way so far that I&#x27;ve seen. I think what is really lacking is a demonstration application which isn&#x27;t just &quot;hello world&quot; or the standard todo app rewritten in React. I just don&#x27;t find that helpful.<p>For another overview, see this article:<p><a href=\"http://blog.andrewray.me/reactjs-for-stupid-people/\" rel=\"nofollow\">http:&#x2F;&#x2F;blog.andrewray.me&#x2F;reactjs-for-stupid-people&#x2F;</a><p>Please don&#x27;t take offence at the title, I didn&#x27;t write it :D",
+        "time": 1413273754,
+        "type": "comment",
+        "processed": false
+    },
+    "8452384": {
+        "by": "parados",
+        "id": 8452383,
+        "parent": 8452251,
+        "text": "I think what the author meant was that the elapsed time to sort: t = k * O(f(n)). So given two algorithms that have the same O(f(n)) then the smaller the k, the faster the sort.",
+        "time": 1413273768,
+        "type": "comment",
+        "processed": false
+    },
+    "8452385": {
+        "by": "cihanduruer",
+        "id": 8452384,
+        "kids": [
+            8452511,
+            8452434,
+            8452444
+        ],
+        "score": 2,
+        "text": "I am trying to create a comfortable but strong architecture for one of my Angular, Node, Typescript project. So my bootstrap project is currently working fine, but lack of my JS only app architecture knowledge, I can not feel comfortable with my implementation. Feeling something is not right but i can&#x27;t find it.\nSo my question is, please check my project and drop your general or specific comments about it. My main concern is, this architecture approach strong&#x2F;flexible&#x2F;enough to go further development for mid size web application.<p>Little bit background information, I am a senior software engineer&#x2F;architect which actively working for 10+ years, mainly focused on .Net, Java, Android development stack.<p>Here is the project repository : https:&#x2F;&#x2F;github.com&#x2F;cihanduruer&#x2F;WeeMS<p>Test deployment to Azure : http:&#x2F;&#x2F;weems.azurewebsites.net&#x2F;<p>Thanks for all the fish !<p>Cihan",
+        "time": 1413273775,
+        "title": "Ask HN: I need your professional opinion about Angular,Node,TypeScript project",
+        "type": "story",
+        "url": "",
+        "processed": false
+    },
+    "8454589": {
+        "by": "benaiah",
+        "id": 8454588,
+        "parent": 8454334,
+        "text": "That was part of my point - that&#x27;s what I think their reasons are for the policy on the iOS app store, and the MAS policy is the way it is to stay in line with that. I agree that it&#x27;s a terrible system, but that&#x27;s my best guess as to Apple&#x27;s reasoning.",
+        "time": 1413307965,
+        "type": "comment",
+        "processed": false
+    },
+    "8454590": {
+        "by": "laurenkay",
+        "id": 8454589,
+        "parent": 8454558,
+        "text": "Perfectly valid comment, and not hating on us at all. If this were just a random match each week, you&#x27;d be completely correct. Dating is definitely a numbers game, and it takes a lot of choices in order to find the right person. But there is a whole lot you can do behind the scenes to improve those odds. We&#x27;ve gone through the research, we&#x27;ve met thousands of members in person and coordinated thousands of dates, and we&#x27;ve learned how to greatly improve the odds when it comes to personal introductions. I&#x27;d say a big reason other dating sites don&#x27;t do this is because the more clicks they get, the more money they make. But we&#x27;re not in it for clicks.",
+        "time": 1413307967,
+        "type": "comment",
+        "processed": false
+    },
+    "8454591": {
+        "by": "thedudemabry",
+        "id": 8454590,
+        "parent": 8453389,
+        "text": "I&#x27;m not sure I entirely understand his argument. He seems to be arguing that:\n1) Javascript is too complicated for non-web-developers who want to develop a website.\n2) That complexity means that CSS is great as-is, not that the complexity needs to be examined.\n3) OOCSS, SMACSS, and BEM are advantages of CSS&#x27;s rules, not bandaids to patch them.\n4) CSS rules as &quot;hints&quot; are an advantage, not an excuse for a lack of robustness.",
+        "time": 1413307976,
+        "type": "comment",
+        "processed": false
+    },
+    "8454592": {
+        "by": "bhalliburton",
+        "id": 8454591,
+        "score": 1,
+        "text": "",
+        "time": 1413307985,
+        "title": "Pokemon and Start-ups",
+        "type": "story",
+        "url": "http://brenthalliburton.com/pokemon-start-ups/",
+        "processed": false
+    },
+    "8454593": {
+        "by": "salgernon",
+        "id": 8454592,
+        "parent": 8454149,
+        "text": "Purchasing a house recently, I offered a CSV of 6 months banking transactions, but they would only accept a paper statement from the bank - clearly showing fees charged in order determine if I had any insufficient funds charges.  The bank provides explicit PDF images of statements, even though they don&#x27;t send them, so I was ably to comply (actually sending the pdfs to the mortgage broker to print for the underwriter.)",
+        "time": 1413307986,
+        "type": "comment",
+        "processed": false
+    },
+    "8454594": {
+        "by": "TylerE",
+        "id": 8454593,
+        "parent": 8454459,
+        "text": "What if Adobe gave Photoshop away for free and charged for support&#x2F;integration? That&#x27;s really the defacto situation now... Photoshop has always been very widely pirated.",
+        "time": 1413307995,
+        "type": "comment",
+        "processed": false
+    },
+    "8454595": {
+        "by": "muyuu",
+        "id": 8454594,
+        "parent": 8454368,
+        "text": "Yep, and I for one am very happy that they failed to make MAS the standard.<p>I wouldn&#x27;t like the practices that run rampant in their iOS platform to take over Mac, which I still use on the side.",
+        "time": 1413307999,
+        "type": "comment",
+        "processed": false
+    },
+    "8454596": {
+        "by": "Aardwolf",
+        "id": 8454595,
+        "parent": 8449900,
+        "text": "The only downside is that the kernel doesn&#x27;t have a stable API, so the open source code of kernel modules becomes gradually more useless if not actively maintained as it won&#x27;t compile against the kernel headers anymore requiring more and more work to fix.",
+        "time": 1413308009,
+        "type": "comment",
+        "processed": false
+    },
+    "8454597": {
+        "by": "bennyp101",
+        "id": 8454596,
+        "parent": 8454496,
+        "text": "So this is not really anything like the old Qik? Shame, as that was a nice idea with the web streaming side.",
+        "time": 1413308023,
+        "type": "comment",
+        "processed": false
+    },
+    "8454598": {
+        "by": "chriswarbo",
+        "id": 8454597,
+        "parent": 8450678,
+        "text": "&gt; My personal feeling is that sometimes it&#x27;s just better to abandon projects that stagnate. There&#x27;s an open source Go version of Sublime, for example. It would probably be easier to maintain.<p>That&#x27;s throwing the baby out with the bathwater. The only thing which makes Emacs-on-Guile difficult is backwards compatibility. If you find Sublime a viable option, then compatibility isn&#x27;t an issue for you; in which case there&#x27;s nothing preventing you from using Emacs-on-Guile right now.",
+        "time": 1413308024,
+        "type": "comment",
+        "processed": false
+    },
+    "8454599": {
+        "by": "chriswarbo",
+        "id": 8454597,
+        "parent": 8450678,
+        "text": "&gt; My personal feeling is that sometimes it&#x27;s just better to abandon projects that stagnate. There&#x27;s an open source Go version of Sublime, for example. It would probably be easier to maintain.<p>That&#x27;s throwing the baby out with the bathwater. The only thing which makes Emacs-on-Guile difficult is backwards compatibility. If you find Sublime a viable option, then compatibility isn&#x27;t an issue for you; in which case there&#x27;s nothing preventing you from using Emacs-on-Guile right now.",
+        "time": 1413308024,
+        "type": "comment",
+        "processed": false
+    },
+    "8454600": {
+        "by": "mikeash",
+        "id": 8454598,
+        "parent": 8454209,
+        "text": "That&#x27;s a good point, I was thinking from the perspective of designing a new system, not dealing with the large installed base.",
+        "time": 1413308055,
+        "type": "comment",
+        "processed": false
+    },
+    "8454601": {
+        "by": "laurenkay",
+        "id": 8454599,
+        "parent": 8454559,
+        "text": "Additionally, our matchmakers review each profile before approving a member. So Facebook definitely isn&#x27;t perfect, but it helps to prevent some spam, as well as multiple signups from the same person. It also makes the signup flow a lot faster for members.",
+        "time": 1413308055,
+        "type": "comment",
+        "processed": false
+    },
+    "8454602": {
+        "by": "tonicglop",
+        "dead": true,
+        "id": 8454600,
+        "score": 1,
+        "text": "&quot;Our cloud is based on dedicated servers without any software virtualization. Off-the-shelf servers were not suitable for this vision of the cloud. Hence, we designed our own hardware during 2 years from our headquarters in Paris and built it in our factory in France.&quot;",
+        "time": 1413308057,
+        "title": "Next generation of cloud, Fully hardware based, on arm7",
+        "type": "story",
+        "url": "https://www.youtube.com/watch?v=XFhgSKNJP2s",
+        "processed": false
+    },
+    "8454603": {
+        "by": "hga",
+        "id": 8454601,
+        "parent": 8454495,
+        "text": "That pandemic killed an estimated 69,800 Americans.  It&#x27;s simply not in the same class as this Ebola outbreak, and as an airborne disease (infects the upper respiratory tract) that&#x27;s easily transmitted a quarantine would have been much less practical.<p>That was also a period when we had a bunch of new antibiotics available to help with secondary infections, which are frequently the biggest problem with influenza.",
+        "time": 1413308062,
+        "type": "comment",
+        "processed": false
+    },
+    "8454604": {
+        "by": "bluedevil2k",
+        "id": 8454602,
+        "parent": 8454484,
+        "text": "<i>NO</i> aspect of the US government is fully funded from tax receipts - that&#x27;s why we issue so much debt and run such a deficit every year.",
+        "time": 1413308066,
+        "type": "comment",
+        "processed": false
+    },
+    "8454605": {
+        "by": "rtkwe",
+        "id": 8454603,
+        "parent": 8453216,
+        "text": "Ground speed, which is what a GPS would indicate, doesn&#x27;t have very much correlation with the aerodynamics of a plane. The true factor is airspeed which includes the winds around the plane. Taken to an extreme you could have a ground speed of zero and be flying perfectly normal if there&#x27;s a head wind that cancels your forward velocity. (Won&#x27;t happen with a commercial airliner but it illustrates the disconnect between the two factors)",
+        "time": 1413308070,
+        "type": "comment",
+        "processed": false
+    },
+    "8454606": {
+        "by": "primroot",
+        "id": 8454604,
+        "score": 1,
+        "text": "",
+        "time": 1413308072,
+        "title": "GopherJS – A compiler from Go to JavaScript",
+        "type": "story",
+        "url": "https://github.com/gopherjs/gopherjs",
+        "processed": false
+    },
+    "8454607": {
+        "by": "jailbreakiosus",
+        "dead": true,
+        "id": 8454605,
+        "score": 1,
+        "text": "",
+        "time": 1413308072,
+        "title": "Download both Evasion8 and pangu 2.0 jailbreak tool free",
+        "type": "story",
+        "url": "http://jailbreakios.us/ios-8-0-2-jailbreak-pangu-2-0-evasion8-jailbreak/#.VD1ee_mSxZ0",
+        "processed": false
+    },
+    "8454608": {
+        "by": "jamespitts",
+        "id": 8454606,
+        "parent": 8452769,
+        "text": "This is important work, essentially proving that our world isn&#x27;t just running on magic!",
+        "time": 1413308086,
+        "type": "comment",
+        "processed": false
+    },
+    "8454609": {
+        "by": "heychristian",
+        "id": 8454607,
+        "parent": 8453995,
+        "text": "I&#x27;m the CEO of Paddle (<a href=\"https://www.paddle.com/sell\" rel=\"nofollow\">https:&#x2F;&#x2F;www.paddle.com&#x2F;sell</a>), we&#x27;re essentially trying to solve this exact problem for OS X developers, by providing App Store functionality, and more, for those selling outside the MAS (IAPs, Analytics, Payments, Trials, Activations&#x2F; Licensing).<p>The lack of trial versions aside (which is still a huge problem), one of the primary issues with the MAS is the flat-out exclusion of certain categories of application. For example, system utilities are almost totally banned from the MAS, and the system tools&#x2F; utilities that are currently available in the Mac App Store tend to just be slimmed down versions of their non-MAS counterparts with lots of functionality removed.<p>I speak to hundreds of OS X developers every week, and the sentiment around the MAS is gradually changing. Typically we&#x27;re hearing developers just referring to the MAS as a marketing channel these days, due to the restrictions enforced on them.<p>We see a lot of data around MAS vs. Non-MAS sales, and reasons for developers switching, so if anyone has any questions about this space, I&#x27;d be happy to answer.",
+        "time": 1413308094,
+        "type": "comment",
+        "processed": false
+    },
+    "8454610": {
+        "by": "pyduan",
+        "id": 8454608,
+        "score": 1,
+        "time": 1413308097,
+        "title": "Defending Microfinance with Data Science",
+        "type": "story",
+        "url": "http://www.bayesimpact.org/blog/defending-microfinance-with-data-science.html",
+        "processed": false
+    },
+    "8454611": {
+        "by": "dnetesn",
+        "id": 8454609,
+        "score": 1,
+        "text": "",
+        "time": 1413308115,
+        "title": "Lights, Camera, Acrimony",
+        "type": "story",
+        "url": "http://nautil.us/issue/11/light/lights-camera-acrimony?utm_source=tss&utm_medium=desktop&utm_campaign=linkfrom",
+        "processed": false
+    },
+    "8454612": {
+        "by": "soperj",
+        "id": 8454610,
+        "parent": 8454574,
+        "text": "I&#x27;d blame apple, not firefox. What&#x27;s the point in them wasting their time just skinning something that is guaranteed to be slower than Safari?",
+        "time": 1413308121,
+        "type": "comment",
+        "processed": false
+    },
+    "8454613": {
+        "by": "chasb",
+        "id": 8454611,
+        "parent": 8454507,
+        "text": "Congrats to Daniel and the team!",
+        "time": 1413308139,
+        "type": "comment",
+        "processed": false
+    },
+    "8454614": {
+        "by": "blibble",
+        "id": 8454612,
+        "parent": 8454550,
+        "text": "there&#x27;s nothing to stop it hooking opendir() and friends to hide it from ls!",
+        "time": 1413308148,
+        "type": "comment",
+        "processed": false
+    },
+    "8454615": {
+        "by": "jsingh",
+        "id": 8454613,
+        "score": 1,
+        "text": "",
+        "time": 1413308148,
+        "title": "Ph_py – A Python Wrapper for the Product Hunt Beta API",
+        "type": "story",
+        "url": "https://github.com/anatg/ph_py",
+        "processed": false
+    },
+    "8454616": {
+        "by": "bentlegen",
+        "id": 8454614,
+        "parent": 8453634,
+        "text": "&quot;...and your clients&quot;<p>I wonder if the number one employer of these graduates are web consultancies, whose clients are effectively footing the bill for their continued training.",
+        "time": 1413308152,
+        "type": "comment",
+        "processed": false
+    },
+    "8454617": {
+        "by": "MichaelAO",
+        "id": 8454616,
+        "score": 1,
+        "text": "",
+        "time": 1413308170,
+        "title": "Ephemeralization – Doing more with less – Buckminster Fuller (animated clip)",
+        "type": "story",
+        "url": "https://www.youtube.com/watch?v=X8lqnO7aYe0",
+        "processed": false
+    },
+    "8454618": {
+        "by": "chdir",
+        "id": 8454617,
+        "parent": 8454379,
+        "text": "Please follow Doctor&#x27;s advice &amp; research rather than simply trusting your instinct. There&#x27;s some correlation between gall bladder stones &amp; cancer. It&#x27;s safer to have it removed.<p><a href=\"http://www.cancer.org/cancer/gallbladdercancer/detailedguide/gallbladder-risk-factors\" rel=\"nofollow\">http:&#x2F;&#x2F;www.cancer.org&#x2F;cancer&#x2F;gallbladdercancer&#x2F;detailedguide...</a><p><a href=\"http://umm.edu/health/medical/reports/articles/gallstones-and-gallbladder-disease\" rel=\"nofollow\">http:&#x2F;&#x2F;umm.edu&#x2F;health&#x2F;medical&#x2F;reports&#x2F;articles&#x2F;gallstones-an...</a>",
+        "time": 1413308190,
+        "type": "comment",
+        "processed": false
+    },
+    "8454619": {
+        "by": "jdboyd",
+        "id": 8454618,
+        "parent": 8452477,
+        "text": "I am sad that serial ports are disappearing from PCs, but I am glad that parallel ports are gone.  They were such a horrifying GPIO interface, and yet their presence meant that every open project used them by default, and if they didn&#x27;t then they used high priced tools instead.  Now that parallel ports are dead, we have an abundance of affordable USB GPIO devices to choose from, from Arduinos to FTDI devices (and many others of course).  And best of all, numerous devices can be connected at once via a cheap USB hub, unlike parallel port devices.",
+        "time": 1413308215,
+        "type": "comment",
+        "processed": false
+    },
+    "8454620": {
+        "by": "aurelian",
+        "id": 8454619,
+        "parent": 8453275,
+        "text": "More on judicial combat between a man and a woman:<p><a href=\"http://www.aemma.org/onlineResources/trial_by_combat/combat_man_and_woman.htm\" rel=\"nofollow\">http:&#x2F;&#x2F;www.aemma.org&#x2F;onlineResources&#x2F;trial_by_combat&#x2F;combat_...</a>",
+        "time": 1413308221,
+        "type": "comment",
+        "processed": false
+    },
+    "8454621": {
+        "by": "milen",
+        "id": 8454620,
+        "parent": 8454580,
+        "text": "The whole point is that nothing will change, as far as the consumer experience is concerned. You won&#x27;t get bothered about upgrades or anything like this. All that would happen is you might see an &quot;Upgrade&quot; button in your list of apps you purchased. That&#x27;s it.<p>Note that while the notion of paying once and getting infinite updates forever is quite nice, it&#x27;s not rooted in reality. Either the app you&#x27;re using will get abandoned or you will have to pay up at some point in the future, somehow - ads, IAP, etc.",
+        "time": 1413308223,
+        "type": "comment",
+        "processed": false
+    },
+    "8454622": {
+        "by": "wwweston",
+        "id": 8454621,
+        "parent": 8454531,
+        "text": "Right, the money isn&#x27;t a problem, it&#x27;s just something of a cause -- because they&#x27;re doing so well at the moment, they don&#x27;t have incentives to change and it&#x27;s very easy to take the money they are making as a signal that they&#x27;re doing things right.<p>Then add that to a pretty magisterial culture...",
+        "time": 1413308228,
+        "type": "comment",
+        "processed": false
+    },
+    "8454623": {
+        "by": "gritzko",
+        "id": 8454622,
+        "parent": 8454015,
+        "text": "The very general response is: Swarm.js is CRDT and thus more async-friendly.\nIt may survive failures all along the chain (db to server, server to client, client to cache, etc). It may synchronize with multiple sources: WebSocket to the server, WebStorage to the cache, WebRTC to a peer -- all at the same time.\nThat flexibility is paid by (1) implementing Lamport timestamps and by (2) limited use of version vectors (on handshake). ShareJS versions are linear, for example, but those linear versions are specific to a replica, as far as I can tell. In OT, version 3 here and version 3 there are possibly different.\nCRDT&#x2F;CT is generally easier to reason about than OT, esp. considering various non-standards situations and implications. That is mostly because CRDT (this flavor) employs &quot;partially ordered log of immutable operations&quot; while OT operations are mutable. That is the formal difference.",
+        "time": 1413308229,
+        "type": "comment",
+        "processed": false
+    },
+    "8454624": {
+        "by": "autechr3",
+        "id": 8454623,
+        "parent": 8454562,
+        "text": "When you are married, all of your spouses money is your money (unless you agree it isnt).",
+        "time": 1413308230,
+        "type": "comment",
+        "processed": false
+    },
+    "8454625": {
+        "by": "fpgaminer",
+        "id": 8454624,
+        "parent": 8454289,
+        "text": "I really hope this also fixes Firefox&#x27;s behavior with one word searches and misbehaving DNS servers.  Previously, if your DNS server returned advertising for bad DNS queries, one word &quot;searches&quot; would result in displaying the ad page (since Firefox did a DNS query, assuming you meant a hostname instead of a one word search).  This has been broken behavior in Firefox for quite awhile, with no workaround other than to install a different omnibar.  I don&#x27;t understand why Mozilla thought treating single words as hostnames in the omnibar made sense for the majority of people, especially when the majority of people are also subjected to misbehaving DNS servers.",
+        "time": 1413308235,
+        "type": "comment",
+        "processed": false
+    },
+    "8454626": {
+        "by": "oliviatrixy",
+        "dead": true,
+        "id": 8454625,
+        "score": 1,
+        "time": 1413308251,
+        "title": "Samsung Odin Download for ROM Flashing",
+        "type": "story",
+        "url": "http://odindownload.net/#.VD1fHxYWltY.hackernews",
+        "processed": false
+    },
+    "8454627": {
+        "by": "pwnna",
+        "id": 8454626,
+        "parent": 8454472,
+        "text": "Most of the time that&#x27;s because those apps were developed for Chrome (much like how they used to be developed for IE).<p>Which brings me to another point: cross browser testing is important.",
+        "time": 1413308258,
+        "type": "comment",
+        "processed": false
+    },
+    "8454628": {
+        "by": "gohrt",
+        "id": 8454627,
+        "parent": 8454314,
+        "text": "This is very different from Bliive, which is a barter program, not a one-directional donation program.",
+        "time": 1413308279,
+        "type": "comment",
+        "processed": false
+    },
+    "8454629": {
+        "by": "aasarava",
+        "id": 8454628,
+        "parent": 8454028,
+        "text": "Oh I wasn&#x27;t making any judgement on the business itself. Just pointing out that, if anything, he probably hasn&#x27;t profited as handsomely as the article implies.",
+        "time": 1413308280,
+        "type": "comment",
+        "processed": false
+    },
+    "8454630": {
+        "by": "slantyyz",
+        "id": 8454629,
+        "parent": 8454329,
+        "text": "Steam is just as easy. It does take longer than 5m, but that&#x27;s because the files for the games tend to be huge.<p>The problem with Steam is that it has been somewhat typecast as a store for games only, and that Valve doesn&#x27;t seem to make a lot of effort to get other types of apps in there.",
+        "time": 1413308289,
+        "type": "comment",
+        "processed": false
+    },
+    "8454631": {
+        "by": "colmvp",
+        "id": 8454630,
+        "parent": 8454558,
+        "text": "&gt; Having limited matches is just a dealbreaker.<p>I guess your mileage may vary.<p>I don&#x27;t consider wide options to be a positive for me in online dating, as the total number of potentials is particularly deceiving. OkCupid for me had the most results for people I could message but the least outcome. eHarmony had significantly fewer results for me but the furthest outcome.<p>Personally, I&#x27;d rather have one potential match a week with a higher chance of actually going on a date, than messaging many people a week with little to no response. Granted, I realize I&#x27;m making the assumption that this service will actually provide a higher probability.",
+        "time": 1413308292,
+        "type": "comment",
+        "processed": false
+    },
+    "8454632": {
+        "by": "jerf",
+        "id": 8454631,
+        "parent": 8453256,
+        "text": "OK, so, yeah, we spend all that additional money and a few more people get to vacation on the moon. But even from a scientific perspective, would we have gained anything like proportional knowledge from the investment? The mid-1970s simply lacks the technological infrastructure to put a self-sustaining colony on the moon, and a non-self-sustaining one would be ferociously expensive. We still lack the tech today, after all. What would be the point of all of this?<p>I&#x27;ve said it before on HN and a few other places, but this sort of thought experiment just leaves me further convinced that rather than 1969 being some sort of technological height from which we&#x27;ve fallen that the whole space race caused a bizarre sport of technological growth that was not backed by the rest of the tech it needed to be backed by to be successful. Robotics was unbelievably primitive. Materials science still young. Medical science is even today too young to support people in space (we are permanently hurting everyone we put into space for any significant period of time).<p>The space era is in the future, not the past.",
+        "time": 1413308309,
+        "type": "comment",
+        "processed": false
+    },
+    "8454633": {
+        "by": "potatolicious",
+        "id": 8454632,
+        "parent": 8454405,
+        "text": "I see some pessimism in these comments, but IMO one needs to consider the problem from both genders (assuming we&#x27;re talking about straight dating exclusively for a sec).<p>The problem with OkCupid is that the experience is <i>horrendous</i> for women. While the men would love to have choice, and &quot;unlimited&quot; matches, in reality this only means one thing:<p>Spam. Spam spam spam spam spam spam. More spam.<p>The success of Tinder should be in large part attributed to the fact that the basic interaction model removes spam. Men will swipe right on the majority of &quot;matches&quot;, making women the actual gatekeepers of conversation - and this model works, though you obviously lose a lot of nuance and depth along the way.",
+        "time": 1413308310,
+        "type": "comment",
+        "processed": false
+    },
+    "8454634": {
+        "by": "Kudos",
+        "id": 8454633,
+        "parent": 8454390,
+        "text": "But you use the roads we pay for, if your house catches fire, our money goes to the firefighters who try to save it.<p>I think the people you&#x27;re speaking of are as cheap as they are principled.",
+        "time": 1413308325,
+        "type": "comment",
+        "processed": false
+    },
+    "8454635": {
+        "by": "silentrob",
+        "id": 8454634,
+        "parent": 8454350,
+        "text": "That is awesome.",
+        "time": 1413308336,
+        "type": "comment",
+        "processed": false
+    },
+    "8454636": {
+        "by": "monstermonster",
+        "id": 8454635,
+        "parent": 8454583,
+        "text": "Disagree. Been building &quot;apps&quot; since when they were called programs for windows, Unix and Mac. Windows is the great constant, has the greatest overall power and flexibility. Unix is a mess of portability and build problems, mac has incredibly high framework churn and low longevity but as I&#x27;ve said already, stuff I wrote for NT4 in 1996 works today absolutely fine and I reckon it will in another 20 years.",
+        "time": 1413308359,
+        "type": "comment",
+        "processed": false
+    },
+    "8454637": {
+        "by": "hangonhn",
+        "id": 8454636,
+        "parent": 8454405,
+        "text": "I glanced through it but it&#x27;s unclear to me why your service is better than any other. Basically you say you make the match but that requires that I give up my agency over something that is at least somewhat important to me.  I might be willing to go along with it but maybe a little clearer or obvious explanation of how your magic works would make it an easier sell?  I might be an outlier though.<p>Ask, the Facebook thing is uncomfortable.",
+        "time": 1413308359,
+        "type": "comment",
+        "processed": false
+    },
+    "8454638": {
+        "by": "mpenn",
+        "id": 8454637,
+        "parent": 8454560,
+        "text": "Thanks! The machine learning has been incredibly fun :-).",
+        "time": 1413308360,
+        "type": "comment",
+        "processed": false
+    },
+    "8454639": {
+        "by": "rabbyte",
+        "id": 8454638,
+        "parent": 8453947,
+        "text": "The true irony is that immediately after &quot;Doesn&#x27;t that tug at his heart strings?&quot; is an advertisement. If it&#x27;s not okay for Schultz to capitalize on the popularity of ebola then why is it okay for the washing post to capitalize on both the popularity of ebola and the supposedly despicable thing Schultz is doing?",
+        "time": 1413308362,
+        "type": "comment",
+        "processed": false
+    },
+    "8454640": {
+        "by": "bhalliburton",
+        "id": 8454639,
+        "parent": 8454591,
+        "text": "I recognize there are better deck lists. I should probably run a third energy switch and lose one of the switches. Maybe have an escape rope.",
+        "time": 1413308362,
+        "type": "comment",
+        "processed": false
+    },
+    "8454641": {
+        "by": "nicolethenerd",
+        "id": 8454640,
+        "score": 1,
+        "text": "",
+        "time": 1413308372,
+        "title": "Why I’m glad Satya Nadella gave that awful career advice to women",
+        "type": "story",
+        "url": "http://blogs.seattletimes.com/monica-guzman/2014/10/11/why-im-glad-satya-nadella-gave-that-awful-career-advice-to-women",
+        "processed": false
+    },
+    "8454642": {
+        "by": "benaiah",
+        "id": 8454641,
+        "parent": 8454580,
+        "text": "Everything you mention is either A: still part of the MAS or B: needed by both developers <i>and</i> consumers.<p>&gt; What I love as a consumer in my iPhone (compared to Android, etc.) is no upgrades -- annoying like hell.\nWTF? iPhone and Android have almost exactly the same upgrade policy. Both automatically update apps, and have done for ages. The only app store in the discussion that <i>does</i> ask you about updates by default is the MAS.<p>&gt; No messages about license changes\nNobody mentioned this. Someone did mention &quot;migration from previous licensing schemes&quot;, but that&#x27;s about not making people pay twice for the same app, not bugging people about license changes. Besides, you do get something similar on iOS - it bugs you, as it should, whenever an app wants new permissions.<p>The MAS may be simpler for consumers than what we want, but it&#x27;s not <i>easier</i>. It&#x27;s a huge PITA for everyone who has to use it in any way outside of the single most obvious manner. These aren&#x27;t even edge cases, these are just cases outside of the default.",
+        "time": 1413308408,
+        "type": "comment",
+        "processed": false
+    },
+    "8454643": {
+        "by": "seanponeil",
+        "id": 8454642,
+        "score": 1,
+        "text": "",
+        "time": 1413308447,
+        "title": "Duo Security API Edition",
+        "type": "story",
+        "url": "https://www.duosecurity.com/api",
+        "processed": false
+    },
+    "8454644": {
+        "by": "tree_of_item",
+        "id": 8454643,
+        "parent": 8454270,
+        "text": "&gt; I realized quickly that creating a Watson was only a secondary goal. I wanted to create something that seemed much more real - a system one could interact with, on a much more human level. Technically speaking, something that was Turing complete.<p>Turing complete? Really? This person seems to be confusing Turing completeness with the &quot;Turing test&quot;.",
+        "time": 1413308464,
+        "type": "comment",
+        "processed": false
+    },
+    "8454645": {
+        "by": "sandal",
+        "id": 8454644,
+        "parent": 8454481,
+        "text": "It would definitely be interesting to do that! I had originally started out wanting to do something as natural as possible, but got myself into all sorts of frustrating trouble with ants getting turned around or wandering off forever. I&#x27;m fairly sure these were just failures in implementation, but they forced me towards looking at slightly more artificial designs.<p>The Ruby-based simulator discussed in this article used Rich Hickey&#x27;s Clojure ant simulator as a starting point:\n<a href=\"https://gist.github.com/spacemanaki/1093917\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;spacemanaki&#x2F;1093917</a><p>This simulator was perhaps a bit closer to what you are looking for. It only emits one type of pheremone, which it releases on a continuous basis. However, it maintains a relative sense of position of where &quot;home&quot; is, which make it possible to prevent ants from &quot;flipping around&quot; within a pheromone trail.<p>In my simulation, I wanted to make it so the ants didn&#x27;t need to know where there home was, allowing them to rely purely following the gradient of the pheromone trails. To do this, I introduced two types of pheremones: one emitted when food was found, and another emitted when the home was found.<p>In retrospect, I possibly could have continuously emitted the &quot;food&quot; pheremone when traveling outbound, and the &quot;home&quot; pheremone when traveling inbound. I can&#x27;t remember if I tried that and ran into trouble, or just didn&#x27;t think of the idea at the time I was building this.<p>It&#x27;s worth pointing out that though the behavior of the world is very artificial (the whole trail gets marked at once after a complete path is run), the behavior of the ants themselves still only relies on their immediate location. And because these ants don&#x27;t know where &quot;home&quot; is, they&#x27;re even dumber than real ants that actually do have some sense of direction.<p>Anyway, refinements on this simulator or links to other simulations that illustrate these ideas are absolutely welcome! I&#x27;d definitely update the article if we found a way to improve upon what I&#x27;ve done.",
+        "time": 1413308477,
+        "type": "comment",
+        "processed": false
+    },
+    "8454646": {
+        "by": "murilomafra",
+        "id": 8454645,
+        "parent": 8454242,
+        "text": "Hey sbspalding,\nThe transfer happens after the real-world exchange. And after the the exchange you can rate the other user or report the activity.\nYour profile show how many good votes you have and you can connect with other medias to show you as a reliable person.<p>Thanks a lot for your support.",
+        "time": 1413308482,
+        "type": "comment",
+        "processed": false
+    },
+    "8454647": {
+        "by": "pavel_lishin",
+        "id": 8454646,
+        "parent": 8453854,
+        "text": "Asking for explanations of downvotes is pointless.<p>Furthermore, if you suspect that a downvote is a silent &quot;no&quot;, accept it as a no.",
+        "time": 1413308486,
+        "type": "comment",
+        "processed": false
+    },
+    "8454648": {
+        "by": "hangonhn",
+        "id": 8454647,
+        "parent": 8454632,
+        "text": "Yeah I&#x27;ve heard total horror stories from women.  It&#x27;s like men on OKCupid took the idea of &quot;numbers game&quot; way, way too far.  Consequently I also didn&#x27;t want to be on there and be lumped in with those guys either.",
+        "time": 1413308487,
+        "type": "comment",
+        "processed": false
+    },
+    "8454649": {
+        "by": "draugadrotten",
+        "id": 8454648,
+        "parent": 8454309,
+        "text": "I recently switched from PC to Mac, and is starting to repurchase applications for OS X.<p>I google apps first, before I go to Appstore.  Why?<p>Appstore is full of crap. I can&#x27;t find what I need. If I type in &quot;text editor&quot; in the Appstore, I can&#x27;t easily find the best text editor for OS X. However, if I google &quot;best text editor for os X&quot; I get meaningful results.<p>Steam has the advantage over the Appstore in that most apps in Steam are &quot;worthy&quot;. They are large, complicated applications worthy of your time and money.  The Appstore is suffering from the weight of a thousand little &quot;Hello World&quot; applications, with little or no value to anyone.<p>The Appstore has potential but the filtering and presenting is not where it needs to be.<p>As a user, the Appstore model of &quot;appear free but charge me in-app purchases later&quot; sucks.  It only serves to annoy me.   It&#x27;s not that I mind paying $50 for software. I just want free software to be free. If you want $50 from me, stay in the non-free section.<p>All in all, I&#x27;ve spent 5 times the $$$ on Steam and web downloads than on the Appstore, during my first 2 weeks as a Mac owner. And I don&#x27;t see that changing.",
+        "time": 1413308494,
+        "type": "comment",
+        "processed": false
+    },
+    "8454650": {
+        "by": "Houshalter",
+        "id": 8454649,
+        "parent": 8454173,
+        "text": "This isn&#x27;t qualitatively different than readability or numerous other extensions. The only difference is he is doing it server side.",
+        "time": 1413308500,
+        "type": "comment",
+        "processed": false
+    },
+    "8454651": {
+        "by": "mikeash",
+        "id": 8454650,
+        "parent": 8454255,
+        "text": "If it could be so much worse, surely it&#x27;s wise to fight against those who would roll it back?",
+        "time": 1413308502,
+        "type": "comment",
+        "processed": false
+    },
+    "8454652": {
+        "by": "egsec",
+        "id": 8454651,
+        "kids": [
+            8454689
+        ],
+        "parent": 8454013,
+        "text": "bartering section on craigslist?",
+        "time": 1413308507,
+        "type": "comment",
+        "processed": false
+    },
+    "8454653": {
+        "by": "laurenkay",
+        "id": 8454652,
+        "parent": 8454636,
+        "text": "Thanks, this is great feedback for us. We explain more in our FAQ: datingring.com&#x2F;faq . We&#x27;re going to work on improving the explanation and building in a free match, because the easiest way to explain why what we do is better is just to experience it. (Since most of how we match is private.)<p>We definitely realize that Facebook is problematic. The pros are that it helps some with security, we don&#x27;t post to your wall, and it makes the signup flow much faster. But we&#x27;re considering adding a way to sign up without Facebook since it&#x27;s definitely the top complaint we&#x27;ve heard since the relaunch.",
+        "time": 1413308528,
+        "type": "comment",
+        "processed": false
+    },
+    "8454654": {
+        "by": "pavel_lishin",
+        "id": 8454653,
+        "parent": 8451110,
+        "text": "I threw away a box of CD-Rs and DVD-Rs full of various episodes of TV shows and movies I&#x27;d downloaded in college.<p>I know I have the potential to become a hoarder. I&#x27;m very glad that modern society shows us that people can become ill in that way, because now I&#x27;m very vigilant to make sure I don&#x27;t become that person.",
+        "time": 1413308534,
+        "type": "comment",
+        "processed": false
+    },
+    "8454655": {
+        "by": "milen",
+        "id": 8454654,
+        "kids": [
+            8454687
+        ],
+        "parent": 8454607,
+        "text": "When I was researching what we can use for payments, I stumbled upon Paddle and it looked exactly like what I wanted - looks very well done.<p>I have two questions for you:<p>1) Who is the vendor of record? This is relevant to handling VAT and it means either you have to do it or the business selling the software.<p>2) I couldn&#x27;t find any information on what countries are supported, payment methods for receiving royalties, etc.<p>Thanks.",
+        "time": 1413308535,
+        "type": "comment",
+        "processed": false
+    },
+    "8454656": {
+        "by": "Animats",
+        "id": 8454655,
+        "parent": 8452986,
+        "text": "Well, it&#x27;s good to have a hard-compiled language that&#x27;s (almost) memory safe. Three problems with Go:<p>- The Go mantra is &quot;share by communicating, not by sharing&quot;. Then look at all the thread examples in &quot;Effective Go&quot;.  They all share memory, while trying to construct locks using message passing.  Multi-threaded Go programs are not memory-safe. That&#x27;s why Google won&#x27;t let you use them on their AppEngine.  Compare Erlang, which takes message passing seriously.<p>- The lack of exceptions is resulting in hacks using the &quot;panic&quot; mechanism to create an exception mechanism.  This is where we were with &quot;longjmp&quot; in C.  I know someone at Google who has constructed a language on top of Go mostly to deal with exceptions.<p>- The lack of generics is resulting in hacks using the reflection mechanism to create generics. This is painful and slow. Go has generics for built-in objects; channels and maps are parameterized types, so there&#x27;s already syntax for instantiating a parameterized type.  Extending that to user-defined types would no be too bad. Fear of the C++ template mess seems to have been the problem.",
+        "time": 1413308536,
+        "type": "comment",
+        "processed": false
+    },
+    "8454657": {
+        "by": "logfromblammo",
+        "id": 8454656,
+        "parent": 8454112,
+        "text": "That is true in the modal case.<p>Governments don&#x27;t <i>necessarily</i> get into trouble by spending more than they have.  If they spend only on goods and services that tend to promote sustainable economic growth, the rise in future revenues will more than compensate for that.<p>If you borrow 1000 kg of seed corn and then plant it on fertile land, you can pay back that ton with interest.  If you borrow 1000 kg of seed corn, distill it into whiskey, then drink some and burn the rest, you will probably have some trouble with debt later.<p>If governments spent only on those things that provided more value to their taxpayers than simply holding on to their cash, people would actually be clamoring to pay more in taxes.  But the principal-agent problem usually makes that impossible.  People that spend other people&#x27;s money have little incentive to do it prudently.",
+        "time": 1413308558,
+        "type": "comment",
+        "processed": false
+    },
+    "8454658": {
+        "by": "logfromblammo",
+        "id": 8454656,
+        "parent": 8454112,
+        "text": "That is true in the modal case.<p>Governments don&#x27;t <i>necessarily</i> get into trouble by spending more than they have.  If they spend only on goods and services that tend to promote sustainable economic growth, the rise in future revenues will more than compensate for that.<p>If you borrow 1000 kg of seed corn and then plant it on fertile land, you can pay back that ton with interest.  If you borrow 1000 kg of seed corn, distill it into whiskey, then drink some and burn the rest, you will probably have some trouble with debt later.<p>If governments spent only on those things that provided more value to their taxpayers than simply holding on to their cash, people would actually be clamoring to pay more in taxes.  But the principal-agent problem usually makes that impossible.  People that spend other people&#x27;s money have little incentive to do it prudently.",
+        "time": 1413308558,
+        "type": "comment",
+        "processed": false
+    },
+    "8454659": {
+        "by": "justincormack",
+        "id": 8454657,
+        "parent": 8452728,
+        "text": "You can use the NetBSD rump kernel [1] to do this relatively easily - I have run LuaJIT on Xen using this and there is now a bare metal implementation too.<p>[1] <a href=\"http://rumpkernel.org/\" rel=\"nofollow\">http:&#x2F;&#x2F;rumpkernel.org&#x2F;</a>",
+        "time": 1413308561,
+        "type": "comment",
+        "processed": false
+    },
+    "8454660": {
+        "by": "pavel_lishin",
+        "id": 8454658,
+        "parent": 8452598,
+        "text": "It&#x27;s also physically healthier and more affordable.",
+        "time": 1413308568,
+        "type": "comment",
+        "processed": false
+    },
+    "8454661": {
+        "by": "cscharenberg",
+        "id": 8454659,
+        "parent": 8452184,
+        "text": "It would be really interesting if a hacker found a way to harvest _new_ passwords and faked a huge data breach to get millions of people to change their passwords. Threatening fake data breaches if not paid a ransom could be the next profitable hacker market. It would probably work a few times, and certainly muddy up the waters for both organizations and people. Imagine trying to figure out how to respond when 10 major groups have a data breach per week, but 2 of those are real and the rest are fakes. Chaos and massive frustration.",
+        "time": 1413308573,
+        "type": "comment",
+        "processed": false
+    },
+    "8454662": {
+        "by": "murilomafra",
+        "id": 8454660,
+        "parent": 8454318,
+        "text": "Hey John,\nGood to see you again.<p>Timebanking is a great topic. Thanks for your link, its very interesting.",
+        "time": 1413308580,
+        "type": "comment",
+        "processed": false
+    },
+    "8454663": {
+        "by": "afunngal",
+        "dead": true,
+        "id": 8454661,
+        "score": 1,
+        "text": "",
+        "time": 1413308616,
+        "title": "50 Shades Gets Spank'd",
+        "type": "story",
+        "url": "http://youtu.be/2NVHgWlkpZs",
+        "processed": false
+    },
+    "8454664": {
+        "by": "laurenkay",
+        "id": 8454662,
+        "parent": 8454559,
+        "text": "Considering that this is the biggest complaint we&#x27;ve heard, we&#x27;re also considering adding a way to sign up without Facebook.",
+        "time": 1413308621,
+        "type": "comment",
+        "processed": false
+    },
+    "8454665": {
+        "by": "drcube",
+        "id": 8454663,
+        "parent": 8454279,
+        "text": "It was news to me when I discovered ancient Greece wasn&#x27;t just white stone and marble everywhere. Almost all of it was painted bright, gaudy colors. In my opinion, it makes them more beautiful.<p><a href=\"http://io9.com/5616498/ultraviolet-light-reveals-how-ancient-greek-statues-really-looked\" rel=\"nofollow\">http:&#x2F;&#x2F;io9.com&#x2F;5616498&#x2F;ultraviolet-light-reveals-how-ancient...</a>",
+        "time": 1413308654,
+        "type": "comment",
+        "processed": false
+    },
+    "8454666": {
+        "by": "ep103",
+        "id": 8454664,
+        "parent": 8454180,
+        "text": "<a href=\"https://news.ycombinator.com/item?id=8454456\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=8454456</a>",
+        "time": 1413308660,
+        "type": "comment",
+        "processed": false
+    },
+    "8454667": {
+        "by": "neddenriep",
+        "id": 8454665,
+        "score": 1,
+        "text": "",
+        "time": 1413308688,
+        "title": "Think hiring engineers is impossible? You are doing it wrong",
+        "type": "story",
+        "url": "https://medium.com/@neddenriep/think-hiring-engineers-is-impossible-you-are-doing-it-wrong-ea5ca7a15ee3",
+        "processed": false
+    },
+    "8454668": {
+        "by": "tahn",
+        "id": 8454666,
+        "parent": 8453144,
+        "text": "In recent weeks I&#x27;ve been laid out a few times with gastrointestinal pain for 8+ house after eating, and fat is maybe be a correlation (pizza, chorizo in a meal, potatoes with butter). Then again, donuts seemingly haven&#x27;t bothered me and I also got sick after a roast beef sandwich. Unfortunately I live in the middle of nowhere and my GP&#x27;s only idea after everything he knew to try was negative has been to refer me to a gastroenterologist in a major city, with even the &quot;emergency&quot; appointment weeks away. After reading the story and comments, think I&#x27;ll double down on avoiding fat and see if my GP can do anything about checking my gallbladder.",
+        "time": 1413308706,
+        "type": "comment",
+        "processed": false
+    },
+    "8454669": {
+        "by": "xkarga00",
+        "id": 8454667,
+        "parent": 8454147,
+        "text": "golang.org&#x2F;s&#x2F;go14android",
+        "time": 1413308718,
+        "type": "comment",
+        "processed": false
+    },
+    "8454670": {
+        "by": "xkarga00",
+        "id": 8454667,
+        "parent": 8454147,
+        "text": "golang.org&#x2F;s&#x2F;go14android",
+        "time": 1413308718,
+        "type": "comment",
+        "processed": false
+    },
+    "8454671": {
+        "by": "facorreia",
+        "id": 8454668,
+        "score": 8,
+        "text": "",
+        "time": 1413308719,
+        "title": "R Notebooks in the cloud",
+        "type": "story",
+        "url": "http://blog.dominodatalab.com/r-notebooks/",
+        "processed": false
+    },
+    "8454672": {
+        "by": "mrmch",
+        "id": 8454669,
+        "parent": 8453614,
+        "text": "Super shameless plug, but easy internationalization for email is something we&#x27;ve added to Sendwithus. We&#x27;re working with multiple partners on it (sample at <a href=\"https://www.sendwithus.com/translations\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sendwithus.com&#x2F;translations</a>), but are still looking for more beta users of the feature.",
+        "time": 1413308747,
+        "type": "comment",
+        "processed": false
+    },
+    "8454673": {
+        "by": "ianlevesque",
+        "id": 8454670,
+        "score": 6,
+        "text": "",
+        "time": 1413308764,
+        "title": "How to Get Started on the MEAN Stack (MongoDB, Express, Angular, Node)",
+        "type": "story",
+        "url": "https://hackhands.com/how-to-get-started-on-the-mean-stack/",
+        "processed": false
+    },
+    "8454674": {
+        "by": "higherpurpose",
+        "id": 8454671,
+        "parent": 8453372,
+        "text": "I&#x27;m curious about what kind of security stuff IE12 supports. Does it support new curves like Curve25519? HSTS? In many cases, even if Chrome and Firefox are more pro-active about modern crypto, IE ends up holding them back for <i>years</i>. I wish that stop being the case with the new versions.<p>Also, unrelated to IE, but why doesn&#x27;t Windows 10 add out of the box encryption like iOS8 and Android L? (one where Microsoft doesn&#x27;t get to keep the keys in its cloud - I hope that&#x27;s clear).",
+        "time": 1413308764,
+        "type": "comment",
+        "processed": false
+    },
+    "8454675": {
+        "by": "gokulk",
+        "id": 8454672,
+        "parent": 8453531,
+        "text": "can the bar go any lower? how can we even think a phone app only used by adolescent people will take over social networking for all mankind. I do not know a single person who uses this app and all the audience in this video are teenage girls.",
+        "time": 1413308773,
+        "type": "comment",
+        "processed": false
+    },
+    "8454676": {
+        "by": "FireBeyond",
+        "id": 8454673,
+        "parent": 8452683,
+        "text": "You mean like in multiple of the examples that are cited in the article? Lay church members carrying funds from their congregation, going to purchase property for the church (well, the police said “both of them disclaimed ownership of the money, so it was seized” - no kidding, because it was for the church).<p>Or the gentleman buying a car, who had the car ad, contact information for the prospective seller, who confirmed that he had an appointment to meet that person? “No, based on my investigation I have concluded this is money for a drug purchase”.",
+        "time": 1413308783,
+        "type": "comment",
+        "processed": false
+    },
+    "8454677": {
+        "by": "f1gm3nt",
+        "id": 8454674,
+        "score": 2,
+        "text": "",
+        "time": 1413308787,
+        "title": "FPGA Designer Curriculum",
+        "type": "story",
+        "url": "http://www.altera.com/education/training/curriculum/fpga/trn-fpga.html",
+        "processed": false
+    },
+    "8454678": {
+        "by": "caiob",
+        "id": 8454675,
+        "parent": 8454610,
+        "text": "Not valid for iOS8, as they introduced the WKWebView.",
+        "time": 1413308795,
+        "type": "comment",
+        "processed": false
+    },
+    "8454679": {
+        "by": "Robadob",
+        "id": 8454676,
+        "parent": 8454406,
+        "text": "This was also set in stone before everyone had a internet connection capable of downloading regular and possibly large software updates. The convenience and feasibility of smaller&#x2F;incremental updates (rather than yearly large version updates) has completely changed the distribution possibilities, and with that one has to expect changes to the way such software is bought&#x2F;sold&#x2F;rented.",
+        "time": 1413308797,
+        "type": "comment",
+        "processed": false
+    },
+    "8454680": {
+        "by": "mdupont",
+        "id": 8454677,
+        "parent": 8454547,
+        "text": "I used to work there. Fraud&#x2F;fake profiles are one of the hardest &amp; most important problems to solve, and one of OKC&#x27;s main competitive advantages is doing so in a scalable way. It&#x27;s not a problem from the user perspective, but that&#x27;s a testament to a lot of intelligent effort, not a reason why fake profiles aren&#x27;t an issue.",
+        "time": 1413308803,
+        "type": "comment",
+        "processed": false
+    },
+    "8454681": {
+        "by": "tonicglop",
+        "dead": true,
+        "id": 8454678,
+        "score": 1,
+        "text": "",
+        "time": 1413308830,
+        "title": "Amazon EC2 hudge competitor?",
+        "type": "story",
+        "url": "https://www.youtube.com/watch?v=XFhgSKNJP2s&feature=youtu.be",
+        "processed": false
+    },
+    "8454682": {
+        "by": "jpetersonmn",
+        "id": 8454679,
+        "parent": 8444137,
+        "text": "I would not use something like this. Basically it reminds of trying to video chat on dial-up or something.",
+        "time": 1413308837,
+        "type": "comment",
+        "processed": false
+    },
+    "8454683": {
+        "by": "mhb",
+        "id": 8454680,
+        "kids": [
+            8454685
+        ],
+        "score": 2,
+        "text": "To sign up: http:&#x2F;&#x2F;crayfis.ps.uci.edu&#x2F;",
+        "time": 1413308844,
+        "title": "Observing Ultra-High Energy Cosmic Rays with Smartphones [pdf]",
+        "type": "story",
+        "url": "http://crayfis.ps.uci.edu/paper.pdf",
+        "processed": false
+    },
+    "8454684": {
+        "by": "ivank",
+        "id": 8454681,
+        "score": 4,
+        "text": "",
+        "time": 1413308864,
+        "title": "IntelliJ IDEA 14 Will Detect Code Styles on the Fly",
+        "type": "story",
+        "url": "http://blog.jetbrains.com/idea/2014/10/intellij-idea-14-will-detect-code-styles-on-the-fly/",
+        "processed": false
+    },
+    "8454685": {
+        "by": "rbanffy",
+        "id": 8454682,
+        "parent": 8450861,
+        "text": "At least for Ubuntu, Christmas comes twice every year.",
+        "time": 1413308869,
+        "type": "comment",
+        "processed": false
+    },
+    "8454686": {
+        "by": "Benjammer",
+        "id": 8454683,
+        "parent": 8454589,
+        "text": "OkCupid and other sites also use algorithms to increase the chances, but you also get way more than 1 &quot;match&quot; a week, and you can also peruse tons of random profiles as often as you want (and these still usually give some kind of compatibility score). You could very conceivably set up a new date every night with someone who has gone through some sort of &quot;algorithm&quot; to match up with you.<p>Is your algorithm&#x2F;method so much better than any other site that you can afford to only send one match per week and hope to achieve the same (or, hopefully, <i>better</i>) results as other sites?<p>When it comes to dating, I don&#x27;t think success&#x2F;date matters as much to people as success&#x2F;time.",
+        "time": 1413308886,
+        "type": "comment",
+        "processed": false
+    },
+    "8454687": {
+        "by": "AshleysBrain",
+        "id": 8454684,
+        "parent": 8453746,
+        "text": "I think Firefox 33 also enables Direct3D 11 rendering on Windows. Can anyone confirm? I&#x27;ve just been digging through bugzilla and can&#x27;t find a clear reference to that, but it&#x27;s an interesting change if so.",
+        "time": 1413308886,
+        "type": "comment",
+        "processed": false
+    },
+    "8454688": {
+        "by": "mhb",
+        "id": 8454685,
+        "parent": 8454680,
+        "text": "To sign up: <a href=\"http://crayfis.ps.uci.edu/\" rel=\"nofollow\">http:&#x2F;&#x2F;crayfis.ps.uci.edu&#x2F;</a>",
+        "time": 1413308898,
+        "type": "comment",
+        "processed": false
+    },
+    "8454689": {
+        "by": "bitwize",
+        "id": 8454686,
+        "parent": 8453144,
+        "text": "My sister had hers out -- while 9 months pregnant no less. There are dietary changes that must be made, as it becomes more difficult to digest fatty foods. So while you can live without one, it is not a useless organ -- much like the appendix.",
+        "time": 1413308900,
+        "type": "comment",
+        "processed": false
+    },
+    "8454690": {
+        "by": "heychristian",
+        "id": 8454687,
+        "parent": 8454654,
+        "text": "Thanks for the kind words. In response to your questions:<p>1). Paddle is the vendor&#x2F;merchant of record. We handle all of the VAT&#x2F; sales tax liability on your behalf. Payouts you receive from us are a royalty payment, exactly as they are from Apple&#x2F; the MAS. (This is particularly relevant as of Jan 1st 2015 when the EU VAT regulations change, and become super complicated for indie devs).<p>2). We support most countries (all countries, with the exception of North Korea, Cuba etc.), allow payments from customers via Credit&#x2F;Debit Card (Visa, Mastercard, Amex) and PayPal. Support payouts to merchants via PayPal, Local Wire (32 countries - List: <a href=\"http://padl.to/1qoAWNN\" rel=\"nofollow\">http:&#x2F;&#x2F;padl.to&#x2F;1qoAWNN</a>) or International Wire (everywhere else).",
+        "time": 1413308915,
+        "type": "comment",
+        "processed": false
+    },
+    "8454691": {
+        "by": "jarin",
+        "id": 8454688,
+        "parent": 8454472,
+        "text": "Strangely enough, I&#x27;ve recently switched back to Safari because it&#x27;s pretty good in Yosemite and has a fairly decent extension ecosystem now.",
+        "time": 1413308917,
+        "type": "comment",
+        "processed": false
+    },
+    "8454692": {
+        "by": "jarin",
+        "id": 8454688,
+        "parent": 8454472,
+        "text": "Strangely enough, I&#x27;ve recently switched back to Safari because it&#x27;s pretty good in Yosemite and has a fairly decent extension ecosystem now.",
+        "time": 1413308917,
+        "type": "comment",
+        "processed": false
+    },
+    "8454693": {
+        "by": "murilomafra",
+        "id": 8454689,
+        "parent": 8454651,
+        "text": "Hey egsec,\nGood comparison.",
+        "time": 1413308924,
+        "type": "comment",
+        "processed": false
+    },
+    "8454694": {
+        "by": "archagon",
+        "id": 8454690,
+        "parent": 8454578,
+        "text": "Software &quot;is&quot; not anything. It&#x27;s what we make of it. Many users and developers are staunchly opposed to a software service industry. Personally, if my only option is ever to make products that require subscriptions and continuous upkeep to use, I&#x27;d probably go work in another field altogether.",
+        "time": 1413308929,
+        "type": "comment",
+        "processed": false
+    },
+    "8454695": {
+        "by": "khare_ashwini",
+        "id": 8454691,
+        "score": 1,
+        "text": "",
+        "time": 1413308932,
+        "title": "A new form of foam",
+        "type": "story",
+        "url": "http://www.news.gatech.edu/2014/10/06/new-way-make-foams-could-lead-lightweight-sustainable-materials",
+        "processed": false
+    },
+    "8454696": {
+        "by": "caridy",
+        "id": 8454692,
+        "parent": 8453614,
+        "text": "The official announcement is now live:<p><a href=\"http://yahooeng.tumblr.com/post/100006468771/announcing-format-js-internationalize-your-web-apps-on\" rel=\"nofollow\">http:&#x2F;&#x2F;yahooeng.tumblr.com&#x2F;post&#x2F;100006468771&#x2F;announcing-form...</a><p>hopefully it will help to clarify few of the questions...",
+        "time": 1413308937,
+        "type": "comment",
+        "processed": false
+    },
+    "8454697": {
+        "by": "jonathanjaeger",
+        "id": 8454693,
+        "parent": 8454630,
+        "text": "I see what you&#x27;re saying, but let&#x27;s say on OkCupid the vast majority of people you wouldn&#x27;t want to message, let alone meet. You message the highest matches based on similarity, interests, and appearance (who you might be potentially attracted to in real life). If you&#x27;re particular, that might mean only messaging one or two people per day depending on your style. What happens if you get that one match per week from Dating Ring and you automatically are not attracted to them based on appearance or personality? There are certainly people who seem really interesting and then they message me back and then it&#x27;s pretty clear that we&#x27;re never going to have a fun conversation, and you move on. Hard to do that with one match per week. I know online dating can be tedious at times, but let&#x27;s be honest, going to bars all the time or picking up a ton of new hobbies to meet new people is even more time-consuming and from what I&#x27;ve seen from myself and many other people definitely less fruitful.",
+        "time": 1413308961,
+        "type": "comment",
+        "processed": false
+    },
+    "8454698": {
+        "by": "tormeh",
+        "id": 8454694,
+        "parent": 8454620,
+        "text": "Or the developer makes a sequel app, and you have to pay again to get the new one.",
+        "time": 1413308970,
+        "type": "comment",
+        "processed": false
+    },
+    "8454699": {
+        "by": "Scuds",
+        "id": 8454695,
+        "parent": 8454619,
+        "text": "I suppose that would fall under marital martial arts...",
+        "time": 1413309008,
+        "type": "comment",
+        "processed": false
+    },
+    "8454700": {
+        "by": "JSeymourATL",
+        "id": 8454696,
+        "parent": 8450424,
+        "text": "Depends -- how well you know the subject matter &amp; details.  Have you thought through how to handle potential objections and areas of concern?  Suggest reading Oren Klaff&#x27;s Pitch Anything! &gt;  <a href=\"http://salestipaday.com/2011/10/19/oren-klaff-pitch-anything-how-to-prepare-for-a-meeting/\" rel=\"nofollow\">http:&#x2F;&#x2F;salestipaday.com&#x2F;2011&#x2F;10&#x2F;19&#x2F;oren-klaff-pitch-anything...</a>",
+        "time": 1413309018,
+        "type": "comment",
+        "processed": false
+    },
+    "8454701": {
+        "by": "andremendes",
+        "id": 8454698,
+        "parent": 8453176,
+        "text": "<a href=\"http://getpocket.com\" rel=\"nofollow\">http:&#x2F;&#x2F;getpocket.com</a> do this &quot;cleanse for readability&quot; to the saved links but I think they got closer to readable than you did.\nIf you get to avoid copyright infringement, and get rid of this multi-column layout, I&#x27;m sure it would be better.",
+        "time": 1413309069,
+        "type": "comment",
+        "processed": false
+    },
+    "8454702": {
+        "by": "malingo",
+        "id": 8454699,
+        "score": 1,
+        "time": 1413309119,
+        "title": "Dutee Chand: A Woman Banned from Women’s Sports",
+        "type": "story",
+        "url": "http://onlyagame.wbur.org/2014/10/11/dutee-chand-banned-iaaf",
+        "processed": false
+    },
+    "8454703": {
+        "by": "pkulak",
+        "id": 8454697,
+        "parent": 8453657,
+        "text": "I wrote a couple large projects in Go when 1.0 came out. Since then I&#x27;ve kinda kept of with the language, but not very closely. When I notice there&#x27;s a new version, I recompile my existing projects in the new version and they tend to speed up a bit and use a bit less memory, but they have never broken. I love boring. :D",
+        "time": 1413309021,
+        "type": "comment",
+        "processed": false
+    },
+    "8454704": {
+        "by": "mgkimsal",
+        "id": 8454702,
+        "parent": 8454531,
+        "text": "I guess I never understood why a &#x27;free trial&#x27; was not &#x27;simple&#x27; but &#x27;in-app purchases&#x27; is &#x27;simple&#x27;.  Many of the apps I look at get bad reviews because the app only provides a trial aspect anyway - &#x27;full&#x27; functionality is unlocked as &#x27;in app purchase&#x27;.  And people down vote for that (feeling they&#x27;re being misled).",
+        "time": 1413309174,
+        "type": "comment",
+        "processed": false
+    },
+    "8454705": {
+        "by": "bsmith",
+        "id": 8454700,
+        "score": 1,
+        "text": "We&#x27;re a small team currently using a rolled-our-own MySQL&#x2F;Rails solution for time series data, for an application that records ~100,000 raw data points per day. Previously, we tried a solution based on HBase (OpenTSDB, to be exact), but a horizontally scalable solution is overkill at the moment and we can&#x27;t justify the operations overhead of running a service that complex. The API, built-in rollups and caching were nice, however.<p>At the moment, we&#x27;re in the middle of trying to expand our client-facing features and spruce up the backend (including using some form of caching on our time series queries), and have reached a bit of an impasse on how best to proceed. I&#x27;m wondering what kind of solutions HN readers have seen&#x2F;employed in crossing the bridge between an unoptimized RDBMS-based solution, and the seemingly overkill BigTable-esque options.",
+        "time": 1413309142,
+        "title": "Ask HN: How do you manage time series data in your medium-data application?",
+        "type": "story",
+        "url": "",
+        "processed": false
+    },
+    "8454706": {
+        "by": "DontGiveTwoFlux",
+        "id": 8454703,
+        "parent": 8454607,
+        "text": "I&#x27;d like to be able to not have to create an account to see the software that&#x27;s for sale. Is there a way to do that?",
+        "time": 1413309179,
+        "type": "comment",
+        "processed": false
+    },
+    "8454707": {
+        "by": "nly",
+        "id": 8454705,
+        "parent": 8454198,
+        "text": "I don&#x27;t get the appeal of Waterfox. In my experience Intels C++ compiler isn&#x27;t that good outside of SIMD, with inferior code generation to both GCC and Clang. What compiler are they benchmarking against on their homepage?",
+        "time": 1413309213,
+        "type": "comment",
+        "processed": false
+    },
+    "8454708": {
+        "by": "Animats",
+        "id": 8454704,
+        "parent": 8453995,
+        "text": "Mac developers, be grateful that Apple still allows you to sell applications for their platform that don&#x27;t go through the &quot;Mac App Store&quot;.  Apple&#x27;s general approach to applications on their platforms is &quot;if it&#x27;s profitable, it&#x27;s ours&quot;. Try writing a competitor to iTunes.<p>Apple wants to provide a good out-of-the-box experience. That means their devices come with what customers really need. Apple now views aftermarket apps the way Detroit views aftermarket car accessories.<p>Mac App Store developers, you are in the same business as the company that makes the little tree-shaped air fresheners for cars.  Deal with it.",
+        "time": 1413309193,
+        "type": "comment",
+        "processed": false
+    },
+    "8454709": {
+        "by": "Maarten88",
+        "id": 8454706,
+        "parent": 8454561,
+        "text": "I&#x27;ve been playing with the Windows 10 Preview. Now that Store Apps run in normal windows they are almost indistinguishable from desktop apps, they have much better usability and just feel much more valuable to me.<p>I think that will be a big boost for Windows Store Apps when Windows 10 comes out.",
+        "time": 1413309220,
+        "type": "comment",
+        "processed": false
+    },
+    "8454710": {
+        "by": "patsplat",
+        "dead": true,
+        "id": 8454707,
+        "score": 1,
+        "text": "",
+        "time": 1413309233,
+        "title": "Ebola: Hospital administrators “are like ostriches with their heads in the sand”",
+        "type": "story",
+        "url": "http://www.propertycasualty360.com/2014/10/13/ebola-spread-hospital-administrators-are-like-ostr",
+        "processed": false
+    },
+    "8454711": {
+        "by": "brokentone",
+        "id": 8454708,
+        "parent": 8454331,
+        "text": "Is there a backstory here on some Microsoft issues I might have missed?",
+        "time": 1413309235,
+        "type": "comment",
+        "processed": false
+    },
+    "8454712": {
+        "by": "fpadillao",
+        "id": 8454709,
+        "parent": 8454202,
+        "text": "Slack integration with other tools is the biggest winner so far !",
+        "time": 1413309242,
+        "type": "comment",
+        "processed": false
+    },
+    "8454713": {
+        "by": "ossreality",
+        "dead": true,
+        "id": 8454701,
+        "parent": 8454476,
+        "text": "[0]: it&#x27;s <i>not even close</i>",
+        "time": 1413309159,
+        "type": "comment",
+        "processed": false
+    },
+    "8454714": {
+        "by": "rohamg",
+        "id": 8454710,
+        "score": 1,
+        "text": "",
+        "time": 1413309244,
+        "title": "Show HN: ZenHub.io – Project management inside GitHub",
+        "type": "story",
+        "url": "https://www.zenhub.io/",
+        "processed": false
+    },
+    "8454715": {
+        "by": "gingerlime",
+        "id": 8454712,
+        "parent": 8453394,
+        "text": "I found at least one post[0] that I thought was quite interesting to read actually.<p>[0]<a href=\"http://casjam.com/system-for-selling/\" rel=\"nofollow\">http:&#x2F;&#x2F;casjam.com&#x2F;system-for-selling&#x2F;</a>",
+        "time": 1413309287,
+        "type": "comment",
+        "processed": false
+    },
+    "8454716": {
+        "by": "karenxcheng",
+        "id": 8454711,
+        "score": 1,
+        "text": "",
+        "time": 1413309250,
+        "title": "Donut Selfie – a panoramic video selfie",
+        "type": "story",
+        "url": "http://donutselfie.com/",
+        "processed": false
+    },
+    "8454717": {
+        "by": "gingerlime",
+        "id": 8454712,
+        "parent": 8453394,
+        "text": "I found at least one post[0] that I thought was quite interesting to read actually.<p>[0]<a href=\"http://casjam.com/system-for-selling/\" rel=\"nofollow\">http:&#x2F;&#x2F;casjam.com&#x2F;system-for-selling&#x2F;</a>",
+        "time": 1413309287,
+        "type": "comment",
+        "processed": false
+    },
+    "8454718": {
+        "by": "kyllo",
+        "id": 8454716,
+        "parent": 8454655,
+        "text": "Rust addresses all of these problems. It&#x27;s memory safe through compile-time reference counting and borrow checking (not garbage collected), and it has exceptions and generics. It also has a more powerful type system with type inference.<p>Having tried out both Go and Rust I don&#x27;t see any reason to prefer Go, at least once Rust has a 1.0 release, which is supposed to happen the next 2-3 months.<p>Both languages were designed to replace C++, but only Rust has the features to actually succeed at that, IMHO.",
+        "time": 1413309306,
+        "type": "comment",
+        "processed": false
+    },
+    "8454719": {
+        "by": "Istof",
+        "id": 8454713,
+        "parent": 8451271,
+        "text": "&quot;Text is the oldest and most stable communication technology [...]&quot;<p>I don&#x27;t really know but text is probably not the oldest...",
+        "time": 1413309294,
+        "type": "comment",
+        "processed": false
+    },
+    "8454720": {
+        "by": "acapland",
+        "id": 8454714,
+        "score": 1,
+        "text": "",
+        "time": 1413309300,
+        "title": "Some common problems facing devops and operations teams",
+        "type": "story",
+        "url": "https://blog.logentries.com/2014/10/6-challenges-facing-devops-and-operations-teams-in-2015/",
+        "processed": false
+    },
+    "8454721": {
+        "by": "CocaKoala",
+        "id": 8454715,
+        "parent": 8453509,
+        "text": "&gt;excluding motion picture soundtracks<p>Why are we excluding motion picture soundtracks?",
+        "time": 1413309305,
+        "type": "comment",
+        "processed": false
+    },
+    "8454722": {
+        "by": "laurenkay",
+        "id": 8454717,
+        "parent": 8454630,
+        "text": "Predicting who people will be attracted to is not actually that hard, and if you get a match and aren’t attracted, you tell us why and we’re able to improve future matches. Heck, some people email us pictures of their exes and we use that to send them better matches. You’re right that similarity &#x2F; interests &#x2F; and whether you’re attracted are all important. This is something that we can predict really well. A big part of this though is that people (especially women) are so inundated with ‘matches’ and messages on other sites that they never meet. OkCupid had a great recent blog post that showed that the power of suggestion is just as important as the matching algorithm. So what’s nice about our service is that people are much more likely to meet, since they only get 1 match and because of the matchmaker suggestion. This is not to say that it’s not worth using OkCupid or going to bars or picking up hobbies but I’d say to do them all. What’s $20 if it means a 1% higher chance of meeting your next partner? I know people hate putting a value on love, but the happiness I get from my partner is worth at least a million bucks (he cooks and cleans..). I was single for 3 years before meeting him, and if someone had told me there was a 1% chance of meeting him, that would be equal to $10,000. So even if you don’t agree with my math, $20 is still a far cry from 10k, and I would have paid a lot of money to have spent less time single. Of course, tons of people are fine being single or dating around, so it definitely depends on your priorities.",
+        "time": 1413309316,
+        "type": "comment",
+        "processed": false
+    },
+    "8454723": {
+        "by": "jordanlev",
+        "id": 8454722,
+        "parent": 8451174,
+        "text": "One recommendation for you: I wanted to try out this CMS after reading the blog post, so I click on the &quot;Get Started&quot; link on your website... it requires me to subscribe to an email list?! Huge stumbling block there. There are SO many CMS&#x27;s out there, and if I can&#x27;t get a feel for it within a few minutes I&#x27;m going to just move on to the next one.<p>As a developer, I&#x27;m looking for easy-to-find docs. Having it in a downloadable PDF is already not so great... having to register for it is terrible.",
+        "time": 1413309397,
+        "type": "comment",
+        "processed": false
+    },
+    "8454724": {
+        "by": "Istof",
+        "id": 8454723,
+        "parent": 8453477,
+        "text": "maybe because binary is the lowest level format of text",
+        "time": 1413309403,
+        "type": "comment",
+        "processed": false
+    },
+    "8454725": {
+        "by": "Istof",
+        "id": 8454723,
+        "parent": 8453477,
+        "text": "maybe because binary is the lowest level format of text",
+        "time": 1413309403,
+        "type": "comment",
+        "processed": false
+    },
+    "8454726": {
+        "by": "gdubs",
+        "id": 8454724,
+        "parent": 8454441,
+        "text": "There&#x27;s a good argument out there that a quarantine just makes the situation worse -- more friction for aid organizations to do their work, for one thing.",
+        "time": 1413309412,
+        "type": "comment",
+        "processed": false
+    },
+    "8454727": {
+        "by": "tanglesome",
+        "id": 8454725,
+        "score": 1,
+        "text": "",
+        "time": 1413309415,
+        "title": "The beginning of the people's Web: 20 years of Netscape",
+        "type": "story",
+        "url": "http://www.zdnet.com/the-beginning-of-the-peoples-web-20-years-of-netscape-7000034616/",
+        "processed": false
+    },
+    "8454728": {
+        "by": "maxerickson",
+        "id": 8454726,
+        "parent": 8454684,
+        "text": "It&#x27;s mentioned here:<p><a href=\"https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.mozilla.org&#x2F;Platform&#x2F;GFX&#x2F;OffMainThreadCompositi...</a><p>(which is the destination of the not very obviously named link in the &quot;Windows: OMTC enabled by default&quot; change, I had clicked it earlier to see what OMTC meant)",
+        "time": 1413309431,
+        "type": "comment",
+        "processed": false
+    },
+    "8454729": {
+        "by": "nickff",
+        "id": 8454728,
+        "parent": 8454633,
+        "text": "If I take your money, then give you something which you must use, or would have to pay for a second time if you did not, your use of this item or service is no endorsement of my action.<p>I use the roads which I (and all my fellow citizens) are forced to pay for, at least partly because the government has crowded out all the alternatives.  With respect to firefighters, I would be very happy to return to the system where the insurance company provided fire-fighting services, as was the case before the government took over the industry.<p>I have often made the case against policies that greatly benefit me (financially and otherwise), but at an unacceptable cost to others, and I am sure that I am not alone in having done so.",
+        "time": 1413309448,
+        "type": "comment",
+        "processed": false
+    },
+    "8454730": {
+        "by": "godojo",
+        "id": 8454729,
+        "parent": 8452769,
+        "text": "A webring!",
+        "time": 1413309453,
+        "type": "comment",
+        "processed": false
+    },
+    "8454731": {
+        "by": "wtbob",
+        "id": 8454730,
+        "parent": 8449488,
+        "text": "&gt; Templeton, for example, noted that Common Lisp has no feature that corresponds to Emacs&#x27;s buffer-local variables, which are often used in Emacs extensions.<p>I don&#x27;t know about that; it sounds very much like dynamic variables.  It&#x27;s usual in a Common Lisp implementation to give each thread its own set of dynamic variables (indeed, that&#x27;s close to the only sane thing to do); I can&#x27;t offhand see why it would make sense just to treat buffer-local variables similarly. But perhaps there&#x27;re some semantics I&#x27;m not familiar with.",
+        "time": 1413309511,
+        "type": "comment",
+        "processed": false
+    },
+    "8454732": {
+        "by": "valarauca1",
+        "id": 8454731,
+        "parent": 8454700,
+        "text": "100,000 points per day? If a point is just a 64bit time stamp, and 64 bit float value. That results in ~122GB per day of data. (or 44.5TB per year).<p>I&#x27;d suggest looking into a horizontally scaling solution if that is actually every day, day to day use.",
+        "time": 1413309517,
+        "type": "comment",
+        "processed": false
+    },
+    "8454733": {
+        "by": "gohrt",
+        "id": 8454732,
+        "parent": 8454484,
+        "text": "Unclear. There&#x27;s somethign to be said about asking people to put money where their mouth is to set some priorities, instead of voting for other people&#x27;s tax payments.<p>There&#x27;s also a corruption concern, of course, but I don&#x27;t see that in today&#x27;s case.",
+        "time": 1413309529,
+        "type": "comment",
+        "processed": false
+    },
+    "8454734": {
+        "by": "nodata",
+        "id": 8454733,
+        "parent": 8454430,
+        "text": "Spoken like a true salesman, not giving the goods away immediately :)",
+        "time": 1413309539,
+        "type": "comment",
+        "processed": false
+    },
+    "8454735": {
+        "by": "amartya916",
+        "id": 8454734,
+        "parent": 8454610,
+        "text": "Yes, Apple is definitely to &quot;blame&quot; as far as handicapping UIWebViews are concerned. That being said, the new WKWebview is supposed to have all the Javascript optimizations (and the Nitro engine) that mobile Safari uses.<p>Chances are that it might still not be as fast as Safari, but Firefox should bite the bullet and just do it because:<p>a. Firefox cannot afford to not be on all platforms. With computing devices converging and relying on handshakes (data syncing?), missing out on a major mobile platform is foolish.<p>b. In a related point, syncing bookmarks&#x2F;tabs via Firefox sync  is severely handicapped by it&#x27;s absence on iOS.<p>c. There is a fantastic niche where FF can fit in on iOS. It&#x27;d be as privacy centric as Safari and with an iOS launch would be cross-platform like Chrome (without Google peddling their products front and centre). They could also get some inspiration from mobile Opera on iOS that has fantastic data saving features in-built.",
+        "time": 1413309541,
+        "type": "comment",
+        "processed": false
+    },
+    "8454736": {
+        "by": "cjg_",
+        "id": 8454735,
+        "parent": 8454543,
+        "text": "DNT only has the effect that the browser sets the Do Not Track header on each request, basically begging the server to not track the user.",
+        "time": 1413309548,
+        "type": "comment",
+        "processed": false
+    },
+    "8454737": {
+        "by": "talmand",
+        "id": 8454736,
+        "parent": 8451055,
+        "text": "The laws can vary from area to area, but a number of them do refer to infringement as a form of theft. Any law that refers to the negative impact of the criminal act to the economy is almost certainly speaking of theft. It might not be literally spelled out as theft, but in most cases it is. Heck, in the US there&#x27;s a law referred to the Net Act, which stands for No Electronic Theft Act, that literally names it electronic theft even if there is no monetary gain.<p>The &quot;taking&quot; is not the copying, that&#x27;s a truly sad defense. The taking is depriving the original owner of the resources due them for the time and resources expended during the creation itself. If they created it then they have the right to dictate terms in how you consume it. If you don&#x27;t agree to the terms then the proper response is to not consume it, not to copy it outright and make some silly claim that they lost nothing because you made a digital copy so that they still have the original.",
+        "time": 1413309549,
+        "type": "comment",
+        "processed": false
+    },
+    "8454738": {
+        "by": "apayan",
+        "id": 8454737,
+        "parent": 8454572,
+        "text": "Re: promo codes<p>They are unnecessary on Android. If you want to give your app to someone, you send them an email with a link to an APK and they install it directly.",
+        "time": 1413309628,
+        "type": "comment",
+        "processed": false
+    },
+    "8454739": {
+        "by": "labianchin",
+        "id": 8454738,
+        "score": 1,
+        "text": "",
+        "time": 1413309631,
+        "title": "Ind.ie Manifesto",
+        "type": "story",
+        "url": "https://ind.ie/manifesto/",
+        "processed": false
+    },
+    "8454740": {
+        "by": "nolanl",
+        "id": 8454739,
+        "parent": 8454446,
+        "text": "PouchDB, ydn-db, IndexedDBShim, and Lawnchair will do this as well.<p>Web SQL may be &quot;deprecated,&quot; but it&#x27;s unlikely to be dropped by Apple or Google, since so many mobile web apps depend on it. Even the mobile version of Gmail uses Web SQL.",
+        "time": 1413309637,
+        "type": "comment",
+        "processed": false
+    },
+    "8454741": {
+        "by": "tkmcc",
+        "id": 8454740,
+        "parent": 8454225,
+        "text": "Internet Explorer is a relatively simple executable that relies on other Windows DLLs to do pretty much everything that needs to be done. Check out the architecture here: <a href=\"http://msdn.microsoft.com/en-us/library/aa741312.aspx\" rel=\"nofollow\">http:&#x2F;&#x2F;msdn.microsoft.com&#x2F;en-us&#x2F;library&#x2F;aa741312.aspx</a><p>Ideally just the Trident rendering engine (in MSHTML.dll) could be ported to other platforms for web developer use, but I don&#x27;t know how reliant on other Windows features it is. I also don&#x27;t think it&#x27;s much of a priority (or at all feasible) for the IE team to re-architect their entire product, but I would love for them to prove me wrong.",
+        "time": 1413309639,
+        "type": "comment",
+        "processed": false
+    },
+    "8454742": {
+        "by": "gohrt",
+        "id": 8454741,
+        "parent": 8454562,
+        "text": "The HN is headline is inaccurate. Zuck wrote &quot;Priscilla and I&quot;, because &quot;I and Priscilla&quot; is ungramattical in American language&#x2F;culture, and &quot;I&quot; is... uncouth.<p>Changing the headline&#x27;s speaker from Zuck to &quot;anonymous  HN software&quot; changes the meaning.",
+        "time": 1413309650,
+        "type": "comment",
+        "processed": false
+    },
+    "8454743": {
+        "by": "sevengraff",
+        "id": 8454742,
+        "parent": 8452310,
+        "text": "I&#x27;m disappointed that I can&#x27;t C-x 3 to have web pages side-by-side, but I really, really like being able to switch between tabs with C-x b. I think I&#x27;ll be giving this some time.",
+        "time": 1413309653,
+        "type": "comment",
+        "processed": false
+    },
+    "8454744": {
+        "by": "ahlolexo",
+        "id": 8454743,
+        "parent": 8454721,
+        "text": "it&#x27;s faster to ask for one in IRC, heh.",
+        "time": 1413309657,
+        "type": "comment",
+        "processed": false
+    },
+    "8454745": {
+        "by": "conductor",
+        "id": 8454744,
+        "score": 1,
+        "text": "",
+        "time": 1413309662,
+        "title": "Flow Basic Analysis Tool",
+        "type": "story",
+        "url": "http://www.flowbat.com/",
+        "processed": false
+    },
+    "8454746": {
+        "by": "pond_lilly",
+        "dead": true,
+        "id": 8454745,
+        "parent": 8454585,
+        "text": "sonar is only a part of the problem, navy does much more including ship shock tests, explosives, rockets, missiles, it is basically at war with marine life. <a href=\"http://strandednomore.org/anthropogenic-noise-and-live-strandings/\" rel=\"nofollow\">http:&#x2F;&#x2F;strandednomore.org&#x2F;anthropogenic-noise-and-live-stran...</a>",
+        "time": 1413309673,
+        "type": "comment",
+        "processed": false
+    },
+    "8454747": {
+        "by": "gwern",
+        "id": 8454746,
+        "score": 1,
+        "text": "",
+        "time": 1413309691,
+        "title": "Bedford Level experiment: right answers, wrong reasons",
+        "type": "story",
+        "url": "https://en.wikipedia.org/wiki/Bedford_Level_experiment",
+        "processed": false
+    },
+    "8454748": {
+        "by": "pnathan",
+        "id": 8454747,
+        "parent": 8454326,
+        "text": "I&#x27;ve been investigating &amp; studying the business of software market in the past 2 years, and I&#x27;ve come to the same conclusion. Software needs to be designed around revenue streams; renting software is essentially the future. This is particularly true for software which reaches maturity. E.g., I don&#x27;t need new features on my text editors (spreadsheets, browsers, etc); they are debugged and work great for me.<p>So a SaaS model is where software effectively has to land, modulo unicorns.",
+        "time": 1413309704,
+        "type": "comment",
+        "processed": false
+    },
+    "8454749": {
+        "by": "gwern",
+        "id": 8454748,
+        "score": 1,
+        "text": "",
+        "time": 1413309719,
+        "title": "“War in the womb: The ferocious biological struggle between mother and baby”",
+        "type": "story",
+        "url": "http://aeon.co/magazine/science/pregnancy-is-a-battleground-between-mother-father-and-baby/",
+        "processed": false
+    },
+    "8454750": {
+        "error": "Permission denied",
+        "processed": false
+    },
+    "8454751": {
+        "by": "gwern",
+        "id": 8454750,
+        "score": 1,
+        "text": "",
+        "time": 1413309738,
+        "title": "Ultra-long-term civilizations: planets warmed by neutrinos?",
+        "type": "story",
+        "url": "http://www.centauri-dreams.org/?p=30916",
+        "processed": false
+    },
+    "8454752": {
+        "by": "vanderZwan",
+        "id": 8454751,
+        "parent": 8454294,
+        "text": "I recall being blown away by IE10 svg performance - is it still the fastest there too?",
+        "time": 1413309744,
+        "type": "comment",
+        "processed": false
+    },
+    "8454753": {
+        "by": "dasmiq",
+        "id": 8454752,
+        "score": 1,
+        "text": "",
+        "time": 1413309746,
+        "title": "Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers [pdf]",
+        "type": "story",
+        "url": "http://viraltexts.org/infect-bighum-2013.pdf",
+        "processed": false
+    },
+    "8454754": {
+        "by": "buckpost",
+        "id": 8454753,
+        "score": 1,
+        "time": 1413309749,
+        "title": "How That Startups Can Reward Customers",
+        "type": "story",
+        "url": "http://www.markevans.ca/2014/10/14/reward-customers/",
+        "processed": false
+    },
+    "8454755": {
+        "by": "samaaron",
+        "id": 8454754,
+        "score": 1,
+        "text": "",
+        "time": 1413309763,
+        "title": "Live Coding in the Classroom with Sonic Pi",
+        "type": "story",
+        "url": "https://skillsmatter.com/skillscasts/5809-live-coding-in-the-classroom",
+        "processed": false
+    },
+    "8454756": {
+        "by": "mallyvai",
+        "id": 8454755,
+        "parent": 8454708,
+        "text": "<a href=\"http://www.huffingtonpost.com/kristin-rowefinkbeiner/thank-you-mr-satya-nadell_b_5979000.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.huffingtonpost.com&#x2F;kristin-rowefinkbeiner&#x2F;thank-y...</a>",
+        "time": 1413309788,
+        "type": "comment",
+        "processed": false
+    },
+    "8454757": {
+        "by": "gdubs",
+        "id": 8454756,
+        "parent": 8454484,
+        "text": "Not sure this deserves the downvotes it&#x27;s getting. Perhaps the statement is not perfectly accurate, but the fact is the CDC was decimated by the sequester, with more steep cuts on the plate for 2014 -- including emergency and disaster preparedness.",
+        "time": 1413309804,
+        "type": "comment",
+        "processed": false
+    },
+    "8454758": {
+        "by": "agumonkey",
+        "id": 8454757,
+        "parent": 8454604,
+        "text": "For alternatives see (7 month old) : <a href=\"http://www.reddit.com/r/golang/comments/1z2bc4/a_transpiler_from_go_to_javascript_for_running_go/cfpxphl\" rel=\"nofollow\">http:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;golang&#x2F;comments&#x2F;1z2bc4&#x2F;a_transpiler_...</a>",
+        "time": 1413309810,
+        "type": "comment",
+        "processed": false
+    },
+    "8454759": {
+        "by": "millstone",
+        "id": 8454758,
+        "parent": 8454635,
+        "text": "I&#x27;m primarily a Mac developer. From my outside perspective, the Windows framework churn looks enormous. The &quot;best way&quot; to write a Windows app went from Win32&#x2F;MFC, to WinForms, to Silverlight and WPF, to WinRT, and still seems to be evolving. The preferred language has gone from C++ to C# to C++&#x2F;C#&#x2F;JavaScript(?), and now MS is pushing a UI framework that seems terribly ill-suited to what traditional desktop apps have done.<p>On the Mac side, the story has been constant since OS X first shipped: the best way to write a Mac app is to use the Cocoa frameworks, with Objective-C. There was some churn around garbage collection, and now Swift, but overall the developer story has been much more stable than with Windows.",
+        "time": 1413309817,
+        "type": "comment",
+        "processed": false
+    },
+    "8454760": {
+        "by": "bsmith",
+        "id": 8454759,
+        "parent": 8454731,
+        "text": "We actually see more on the order of a few 10s of MB per day (the data points are fairly small, and we&#x27;ve done some optimization to de-duplicate timestamps). Our entire database is currently less than 10GB.",
+        "time": 1413309821,
+        "type": "comment",
+        "processed": false
+    },
+    "8454761": {
+        "by": "gnopgnip",
+        "id": 8454760,
+        "parent": 8454405,
+        "text": "With fewer dates you are more invested in the individual relationships. This is the opposite of something like OK Cupid where you may message 100 people and only get a few replies.",
+        "time": 1413309821,
+        "type": "comment",
+        "processed": false
+    },
+    "8454762": {
+        "by": "throwaway344",
+        "id": 8454761,
+        "score": 1,
+        "text": "",
+        "time": 1413309824,
+        "title": "Which English You Speak Has Nothing to Do with How Smart You Are",
+        "type": "story",
+        "url": "http://www.slate.com/blogs/lexicon_valley/2014/10/14/english_variation_not_related_to_intelligence_code_switching_and_other_ways.html",
+        "processed": false
+    },
+    "8454763": {
+        "by": "sneak",
+        "id": 8454762,
+        "parent": 8454507,
+        "text": "They check against terrorist watch lists - which many people are on for secret reasons (that have not resulted in their being charged with crimes) with no process for dispute or appeal.<p>Hard to believe they aren&#x27;t scum.",
+        "time": 1413309826,
+        "type": "comment",
+        "processed": false
+    },
+    "8454764": {
+        "by": "clumsysmurf",
+        "id": 8454763,
+        "parent": 8454737,
+        "text": "Then they do not receive updates.",
+        "time": 1413309826,
+        "type": "comment",
+        "processed": false
+    },
+    "8454765": {
+        "by": "theoutlander",
+        "dead": true,
+        "id": 8454764,
+        "score": 1,
+        "time": 1413309843,
+        "title": "Massive list of Dropbox credentials leaked",
+        "type": "story",
+        "url": "http://www.neowin.net/news/dropbox-has-been-hacked-change-your-password-immediately",
+        "processed": false
+    },
+    "8454766": {
+        "by": "clumsysmurf",
+        "id": 8454763,
+        "parent": 8454737,
+        "text": "Then they do not receive updates.",
+        "time": 1413309826,
+        "type": "comment",
+        "processed": false
+    },
+    "8454767": {
+        "by": "dismal2",
+        "id": 8454766,
+        "parent": 8454631,
+        "text": "According to your argument, technologically, we are never ready for anything, so we should do nothing. Jumping into the fire when you&#x27;re half way there is a hell of a learning experience. So you would start a space base for the same reason, the experience. Imagine what would be learned when you actually have to solve the problems that come with living in space instead of just conceptually complaining about them. I&#x27;m sure a lot of things would come up that nobody has predicted before, and we would come up with solutions, some of which might have profound technological impact further down the line.",
+        "time": 1413309875,
+        "type": "comment",
+        "processed": false
+    },
+    "8454768": {
+        "by": "loupereira",
+        "id": 8454767,
+        "score": 1,
+        "text": "",
+        "time": 1413309876,
+        "title": "100M and counting: Cristiano Ronaldo's Facebook fan club",
+        "type": "story",
+        "url": "http://www.cnn.com/2014/10/14/sport/football/football-facebook-ronaldo-100-million/index.html?hpt=hp_c4",
+        "processed": false
+    },
+    "8454769": {
+        "by": "rnyman",
+        "id": 8454768,
+        "score": 1,
+        "text": "",
+        "time": 1413309877,
+        "title": "Unity Games in WebGL: Owlchemy Labs’ Conversion of Aaaaa to Asm.js",
+        "type": "story",
+        "url": "https://hacks.mozilla.org/2014/10/unity-games-in-webgl-owlchemy-labs-conversion-of-aaaaa-to-asm-js/",
+        "processed": false
+    },
+    "8454770": {
+        "by": "pyre",
+        "id": 8454769,
+        "parent": 8454635,
+        "text": "&gt; stuff I wrote for NT4 in 1996 works today absolutely fine and I reckon it will in another 20 years<p>What about those apps you wrote for Windows for Workgroups? How are they holding up? :P",
+        "time": 1413309889,
+        "type": "comment",
+        "processed": false
+    },
+    "8454771": {
+        "by": "edouardb",
+        "id": 8454770,
+        "parent": 8454743,
+        "text": "irc.online.net &#x2F;join #onlinelabs",
+        "time": 1413309900,
+        "type": "comment",
+        "processed": false
+    },
+    "8454772": {
+        "by": "aaronharnly",
+        "id": 8454771,
+        "parent": 8454608,
+        "text": "I hate to be the cranky old man here, but when can we go back to calling &quot;data science&quot; &quot;statistics&quot;? Perhaps there&#x27;s the notion that the new term encompasses high-dimensional techniques from machine learning, or emphasizes computational implementation, but fundamentally this is good old fashioned statistics. And there&#x27;s nothing wrong with that!<p>I think the old adage applies, that if you are applying the suffix &quot;science&quot; to your field, it&#x27;s because you have insecurity about it (social science, computer science, political science, ...)",
+        "time": 1413309907,
+        "type": "comment",
+        "processed": false
+    },
+    "8454773": {
+        "by": "adunk",
+        "id": 8454772,
+        "parent": 8452769,
+        "text": "The web site hosted by a web server running on the Homebrew CPU seems to be offline. Here is a cached version: <a href=\"https://web.archive.org/web/20051103083029/http://magic-1.org/\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20051103083029&#x2F;http:&#x2F;&#x2F;magic-1.or...</a>",
+        "time": 1413309907,
+        "type": "comment",
+        "processed": false
+    },
+    "8454774": {
+        "by": "MCRed",
+        "id": 8454773,
+        "parent": 8452769,
+        "text": "I love stuff like this.  One thing I&#x27;ve wanted for awhile, but not been able to find is off the shelf ASIC making.  For instance, you could take a design like this, or something built for FPGAs, and then turn that into a contract manufacturer who would produce screens and then custom ASICs in low volume.<p>You can do this with PCBs and just about every other part of the hardware stack, but not ASICs.<p>Part of the reason, of course, is that laying out an ASIC is a time consuming and expensive proposition-- but I wonder if there isn&#x27;t a huge opportunity to write software to take a FPGA configuration and algorithmically turn it into the screens to do lithography, which could then be sent to a fab.  Of course you&#x27;d have to require specific processes and pre-defined submodules that represent the various gates.<p>Back when there was no ASICs for the scrypt hash I wanted to make one.<p>Anyway, I think there might be a huge opportunity there for someone with the skills.",
+        "time": 1413309908,
+        "type": "comment",
+        "processed": false
+    },
+    "8454775": {
+        "by": "MCRed",
+        "id": 8454773,
+        "parent": 8452769,
+        "text": "I love stuff like this.  One thing I&#x27;ve wanted for awhile, but not been able to find is off the shelf ASIC making.  For instance, you could take a design like this, or something built for FPGAs, and then turn that into a contract manufacturer who would produce screens and then custom ASICs in low volume.<p>You can do this with PCBs and just about every other part of the hardware stack, but not ASICs.<p>Part of the reason, of course, is that laying out an ASIC is a time consuming and expensive proposition-- but I wonder if there isn&#x27;t a huge opportunity to write software to take a FPGA configuration and algorithmically turn it into the screens to do lithography, which could then be sent to a fab.  Of course you&#x27;d have to require specific processes and pre-defined submodules that represent the various gates.<p>Back when there was no ASICs for the scrypt hash I wanted to make one.<p>Anyway, I think there might be a huge opportunity there for someone with the skills.",
+        "time": 1413309908,
+        "type": "comment",
+        "processed": false
+    },
+    "8454776": {
+        "by": "csdrane",
+        "id": 8454774,
+        "score": 1,
+        "text": "",
+        "time": 1413309915,
+        "title": "History of Wikis",
+        "type": "story",
+        "url": "http://en.wikipedia.org/wiki/History_of_wikis",
+        "processed": false
+    },
+    "8454777": {
+        "by": "personlurking",
+        "id": 8454775,
+        "parent": 8454647,
+        "text": "Is the spamming a recent thing, because of &#x27;that guy&#x27;? I used the site unsuccessfully for a short time a few years ago (before that guy wrote an article suggesting it could be gamed). But I didn&#x27;t know he started a movement or anything.",
+        "time": 1413309919,
+        "type": "comment",
+        "processed": false
+    },
+    "8454778": {
+        "by": "jerols",
+        "id": 8454776,
+        "score": 1,
+        "text": "",
+        "time": 1413309929,
+        "title": "App Making – a guide to launching successful apps by Apple Design Award winner",
+        "type": "story",
+        "url": "http://tapity.com/app-making/",
+        "processed": false
+    },
+    "8454779": {
+        "by": "loupereira",
+        "id": 8454778,
+        "parent": 8454767,
+        "text": "&quot;For Ronaldo, his attraction is not limited to a single country or region, with research suggesting he&#x27;s known by over 84% of the world&#x27;s population -- giving plenty of scope still for him to increase his Facebook and Twitter fan base yet more.&quot;",
+        "time": 1413309968,
+        "type": "comment",
+        "processed": false
+    },
+    "8454780": {
+        "by": "achedeuzot",
+        "id": 8454779,
+        "parent": 8453199,
+        "text": "Such awesome. Much Cool. Very Wow.<p>Try it out, pretty impressive stuff !",
+        "time": 1413309971,
+        "type": "comment",
+        "processed": false
+    },
+    "8454781": {
+        "by": "calcsam",
+        "id": 8454780,
+        "parent": 8454507,
+        "text": "Kudos! We (Zenefits) just finished integrating with their API; the development process was really smooth, and Jonathan and Daniel have been great to work with.",
+        "time": 1413309974,
+        "type": "comment",
+        "processed": false
+    },
+    "8454782": {
+        "by": "higherpurpose",
+        "id": 8454781,
+        "parent": 8454716,
+        "text": "I think at this point Go is more of a replacement for Java than C++.",
+        "time": 1413310010,
+        "type": "comment",
+        "processed": false
+    },
+    "8454783": {
+        "by": "PuercoPop",
+        "id": 8454782,
+        "parent": 8454074,
+        "text": "the #&#x27; in CL and Elisp are not the same. Elisp is a lisp-1 vs CL &#x27;lisp-2&#x27;. The only similarity is that #&#x27;foo expands too (function foo). In CL (function foo) looks up foo in the function namespace (and iiuc can be omitted where functions are expected) in elisp the function form is like quote except for when byte-compiling. It allows the function to be byte-compiled.",
+        "time": 1413310026,
+        "type": "comment",
+        "processed": false
+    },
+    "8454784": {
+        "by": "sergiosgc",
+        "id": 8454783,
+        "parent": 8454063,
+        "text": "There is a large linear usage of ram by adblock if you have the extension. Exponential memory usage per tab, I&#x27;ve never heard of it.",
+        "time": 1413310029,
+        "type": "comment",
+        "processed": false
+    },
+    "8454785": {
+        "by": "sabon",
+        "id": 8454784,
+        "score": 1,
+        "text": "",
+        "time": 1413310035,
+        "title": "A Fantasy Sports Wizard's Winning Formula",
+        "type": "story",
+        "url": "http://online.wsj.com/articles/a-fantasy-sports-wizards-winning-formula-wsj-money-june-2014-1401893587",
+        "processed": false
+    },
+    "8454786": {
+        "by": "bigtunacan",
+        "id": 8454785,
+        "parent": 8454334,
+        "text": "I 100% agree with everything you and jessep have said here.<p>I don&#x27;t think Apple really cares if developers are happy, nor do I believe this is by accident that prices are being driven down in the Apple App Store or the Play Store.<p>I believe both Apple and Google are happy to see the number of apps go up and prices go down since this results in a large number of cheap complimentary products to the phones and tablets in the case of Play Store and App Store, as well as to Macs in the App Store.<p>It seems like they are taking this straight out of micro economics 101.<p>Price of complementary product A (apps in this case) go down leads to increased demand for product B (iPhone, Mac, Android Phone, etc... here).<p>This is totally unsustainable for developers and leads to the majority of developers in the App Store failing, and hence the opt-outs we see from developers on the Mac app store returning to the old way of selling from their website directly and other channels.<p>From the Mac perspective this seems to mean low quality apps and sell once no upgrade apps (games for example) stay in the App store and enterprise or high quality applications continue using the old model of sales.<p>I don&#x27;t think that is ideal, but at least there is a way for developers to continue to sell their products and so high quality products will continue to be produced.<p>I&#x27;m much more concerned with the long term viability of the App &amp; Play stores in regards to phones &amp; tablets.  As developers we have no real alternatives to sell our apps outside of the Google&#x2F;Apple designated marketplace. So I have serious concerns about high quality applications continuing to be realized unless something changes as over time the up front cost and risk to create new software just continues to get worse.",
+        "time": 1413310052,
+        "type": "comment",
+        "processed": false
+    },
+    "8454787": {
+        "by": "cgbystrom",
+        "id": 8454786,
+        "score": 1,
+        "text": "",
+        "time": 1413310053,
+        "title": "Introducing React Elements",
+        "type": "story",
+        "url": "http://facebook.github.io/react/blog/2014/10/14/introducting-react-elements.html",
+        "processed": false
+    },
+    "8454788": {
+        "by": "wuliwong",
+        "id": 8454787,
+        "score": 1,
+        "text": "I have a regular desktop computer attached to the flat screen TV in my living room. I have made some adjustments (mostly larger font sizes) to make the experience better but I have concluded that until some larger &quot;revolution&quot; takes place, it is going to be a sub-optimum experience.<p>There are some design standard type documents out there like https:&#x2F;&#x2F;developers.google.com&#x2F;tv&#x2F;web&#x2F;docs&#x2F;design_for_tv. Following these standards, I could certainly optimize my site for TV viewing but the question is how to &quot;turn it on?&quot; Responsive design &quot;responds&quot; to browser or OS type (in addition to screen size) but in my specific case, I am using a  desktop browser on a 1080p TV. I don&#x27;t see anything obvious to respond to.<p>How might you see this &quot;problem&quot; being solved? Could browsers start to support &quot;TV mode&quot; as a setting? That would be a nice option, I could just set once on this computer and never consider it again. Other devices like Apple TV could also have this setting in place and developers could just look for this and respond accordingly. But even if that happened, I&#x27;m sure it wouldn&#x27;t be for a long time.<p>What could we do now? Any UX&#x2F;UI people have ideas? Some sort of button on my site that says &quot;TV Mode&quot;?<p>This is something I think about quite often and I thought I&#x27;d ask you fine folks what you thought.<p>Thanks.",
+        "time": 1413310055,
+        "title": "Ask HN: Responsive design for TVs?",
+        "type": "story",
+        "url": "",
+        "processed": false
+    },
+    "8454789": {
+        "by": "dotsam",
+        "id": 8454788,
+        "parent": 8453176,
+        "text": "The generated podcast is also presumably a violation of copyright (i.e. it creates a derivative work).",
+        "time": 1413310056,
+        "type": "comment",
+        "processed": false
+    },
+    "8454790": {
+        "by": "GenerocUsername",
+        "id": 8454789,
+        "parent": 8454481,
+        "text": "Of course! The same way ants do it! Perhaps ants leave a small trail while exploring, and then upon finding food, follow their own trail home while leaving a stronger trail.<p>This would cause lots of smaller weaker trails, and the occasional strong trail.<p>Ants out looking for food would follow trails with chances of deviating from the trail based inversely on the strength of the trail. Meaning food sources would get more attention than the random dead-end trails.",
+        "time": 1413310075,
+        "type": "comment",
+        "processed": false
+    },
+    "8454791": {
+        "by": "StavrosK",
+        "id": 8454790,
+        "parent": 8454737,
+        "text": "And have to have every update sent to them by email as well.",
+        "time": 1413310114,
+        "type": "comment",
+        "processed": false
+    },
+    "8454792": {
+        "by": "otakucode",
+        "id": 8454791,
+        "parent": 8454507,
+        "text": "Given that there is already a completely free API for background checks provided by the federal government... wait, is it because that API is convoluted and patently insane?  So is sanity their real product?<p>Also, the way the federal background check system works, requests have to come from originating agencies that are set up to interface with the federal system.  Is Checkr going to interface directly, or are they going to do what most companies do and go through a state agency?  If going through a state agency - which one?  The fee that states charges varies RADICALLY... in some states, you pay basically what the federal govt charges ($14.25).  In others, they charge upwards of $300 per transaction to just submit your data and relay the answer.<p>Also, there is a new service called &#x27;Rap Back&#x27; which enables someone who runs a background check to sort of subscribe to a persons background... so if new items arise, like new arrests or the like, they can be notified.  Will Checkr support that?<p>I don&#x27;t really understand the link to &#x27;on-demand economy&#x27;... at least at the federal level, a background check will tell you nothing except whether the person has been convicted of a &#x27;serious crime&#x27; (the definition of serious crime varies widely from state to state... in Oregon almost all traffic violations are &#x27;serious&#x27;, while in other states nothing short of murder qualifies).  You don&#x27;t get to know when or what crime or anything like that, just &quot;yes&quot; or &quot;no&quot;.  Do you really want to avoid anyone who might have had a domestic violence issue in 1972 or a speeding ticket in Oregon 20 years ago?",
+        "time": 1413310147,
+        "type": "comment",
+        "processed": false
+    },
+    "8454793": {
+        "by": "Hitman666",
+        "id": 8454792,
+        "parent": 8454670,
+        "text": "Hi, I&#x27;m the author of this tutorial - hope you like it, and if anyone has any questions or would like to have something explained in more detail, I can provide live help.",
+        "time": 1413310149,
+        "type": "comment",
+        "processed": false
+    },
+    "8454794": {
+        "by": "sitharus",
+        "id": 8454793,
+        "parent": 8454476,
+        "text": "on my 2012 rMBP running 10.10:<p>Firefox 33: 33.255\nSafari 8.0: 16.454\nChrome 38: 22.048<p>I should install Windows 10 tech preview underbootcamp and see how that goes.",
+        "time": 1413310154,
+        "type": "comment",
+        "processed": false
+    },
+    "8454795": {
+        "by": "keud",
+        "id": 8454794,
+        "score": 1,
+        "text": "",
+        "time": 1413310164,
+        "title": "iOS app using Google+ SDK rejected by Apple",
+        "type": "story",
+        "url": "https://www.airsignapp.com/solved-unable-to-submit-apps-embedding-googleplus-sdk-googleplus-bundle/",
+        "processed": false
+    },
+    "8454796": {
+        "by": "jnem",
+        "id": 8454795,
+        "parent": 8453995,
+        "text": "This is especially interesting for me because I am on the cusp of a technological coup in my own home.  I&#x27;ve been a &quot;PC&quot; my whole life, and have somehow gotten away with never buying an Apple product, and never felt the lack.<p>However, many of the reasons I avoided Apple in the past are now irrelevant, as all but Linux now attempt the same fascist business model (The rings&#x2F;rules of Apple QA for software, and One store with which to rule them all).  My go-to argument against Apple in the past was:<p>&quot;In order to get an application or piece of software into the Apple ecosystem, you have to go through Apple.  Apple has a strict QA process, every app that gets into the store has to vetted by one of Apples legions of QA staff.  This sounds good; we want quality apps.  However, a great deal of Apple’s QA rules for acceptance aren’t just about app quality, but also nebulous ideas of morality and ethics.  The problem with that is, when only one agency is in control of what is proper and what isn’t, we are left with a situation where one agency gets to control what you see, use, and by environmental influence—think.  Now, imagine everyone exclusively owns an Apple product…”<p>Ironically, this notion is very 1984, and my stance on it was a bit extremish to be sure, but hey, I’m a PC.  Anyway, ever since Windows 8 and Windows Phone, it seems Microsoft has seen how completely Apple controls its own ecosystem, and wants a piece (complete with its own app ecosystem).  Suddenly Babylon had arrived on my desktop.  My initial thought was, “are we going to reach a situation where there are no more open platforms to develop for?  Are we going to get to a point where software can only be deployed through stores run by the same folks who run my OS? Do I have to learn Linux?!”<p>So, long ramble short, I’m thinking of joining the cult.  A few years back I was given an iPad as a present.  I initially resented it, labeling it a glorified TV-ala-Netflix device.  I have since spent hundreds on app purchases. \nIs now a good time to put on my robes and worship at the altar of Jobs?",
+        "time": 1413310165,
+        "type": "comment",
+        "processed": false
+    },
+    "8454797": {
+        "by": "heychristian",
+        "id": 8454796,
+        "parent": 8454703,
+        "text": "We don&#x27;t operate like a marketplace, so there&#x27;s no way to &#x27;browse&#x27; whats on sale at Paddle. We act as a platform under the apps, powering payments, trials etc...<p>Once integrated with our SDK, developers are free to distribute their apps wherever, be it their own website&#x2F; to their own audience, or via download portals like MacUpdate.<p>A couple of examples of apps using Paddle:\n* <a href=\"http://www.tunabellysoftware.com/tgpro/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.tunabellysoftware.com&#x2F;tgpro&#x2F;</a>\n* <a href=\"http://marked2app.com/\" rel=\"nofollow\">http:&#x2F;&#x2F;marked2app.com&#x2F;</a>",
+        "time": 1413310202,
+        "type": "comment",
+        "processed": false
+    },
+    "8454798": {
+        "by": "sanderjd",
+        "id": 8454797,
+        "parent": 8450694,
+        "text": "I was purely talking about &quot;pre-compiling&quot; the queries themselves, so it would only effect parsing, not planning. I have no trouble at all believing that this would be a totally negligible improvement.",
+        "time": 1413310206,
+        "type": "comment",
+        "processed": false
+    },
+    "8454799": {
+        "by": "DrJosiah",
+        "id": 8454798,
+        "parent": 8442784,
+        "text": "Incidentally, what gets me the most about reading the experimental procedure is how they went about testing and how easily it would be to defraud such a system.<p>There are techniques for <i>exactly</i> measuring heat output of significantly more powerful generators without relying on simulations of designs of radiators and air flow. Consider that thermal solar plants produce megawatts of power during the day, several orders of magnitude beyond the E-Cat, and yet all of the technology around thermal solar generation measures to within 1-2% of reality, reliably. If they can be so precise on energy measurement at the scale of a utility, it is laughable that they would even try anything other than industry-standard techniques.<p>And color me an asshole, but I don&#x27;t buy that the &quot;high&quot; temperatures of 1500 degrees is a legitimate challenge to measurement, considering that other nuclear technology currently under development operates at millions of degrees and can be measure with much better guarantees of precision, despite also having to deal with deadly radiation and neutron emissions.<p>But no, instead of using fully trusted energy measurement procedures, which would work perfectly fine with a 2300 watt nominal heat generator at 1500 degrees (1.5MWh seems like a lot, but it&#x27;s only 2300 watts over 32 days, roughly the amount of energy it would take to run two decent microwaves for that period of time), they simulate and estimate based on temperature sensors and IR cameras.<p>And even ignoring their questionable measurement procedures, 2300 watts of fraud would be trivial to inject into a system like that with a handful of magnetrons and a waveguide... like how a microwave works.<p>If I, a computer scientist with a reasonably modest level of physics and chemistry education (from 14+ years ago) can think of several methods by which to trivially defraud observers (via measurement methodology, or by injecting external power remotely), and that their testing methodology seems purpose-designed to defraud, it makes me ask two simple questions:<p>1. If this is a fraud, in what world did they believe that this turd sandwich would actually be believed?\n2. If this is not a fraud, why wouldn&#x27;t they have used an industry standard measuring methodology instead of throwing all of this other measuring bullshit into their paper, citing the proprietary nature of the measurement devices, while simultaneously claiming precision.<p>Don&#x27;t get me wrong; I think it would be awesome if this were real. But if I wanted to make claims and defraud observers, I&#x27;m not sure I could design a better setup for fraud.",
+        "time": 1413310207,
+        "type": "comment",
+        "processed": false
+    },
+    "8454800": {
+        "by": "paf31",
+        "dead": true,
+        "id": 8454799,
+        "score": 1,
+        "time": 1413310207,
+        "title": "Reimplementing a Node.js Service in Haskell",
+        "type": "story",
+        "url": "https://gist.github.com/paf31/9c4d402d400d61a49656",
+        "processed": false
+    },
+    "8454801": {
+        "by": "solipsism",
+        "id": 8454800,
+        "parent": 8453528,
+        "text": "I&#x27;m going to guess you&#x27;re a Rubyist.  I had to look up what &quot;vendor everything&quot; referred to.  There&#x27;s a reasonably well referenced blog post by a Rubyist -- but only referenced by other Rubyists.  I see that the Bundler tool looks for a &#x27;vendor&#x27; subdirectory, so I&#x27;m going to guess that&#x27;s how it became a part of the Ruby lexicon.<p>Anyway, just wanted to point out that it&#x27;s possible you&#x27;re using Ruby lingo and not general-purpose tech terms.  I could be wrong, maybe I just missed the boat.<p>I think &quot;bundle everything&quot; might make sense to everybody, including Rubyists.",
+        "time": 1413310220,
+        "type": "comment",
+        "processed": false
+    },
+    "8454802": {
+        "by": "talmand",
+        "id": 8454801,
+        "parent": 8451117,
+        "text": "I read the thread and it is not a perceived criticism. It is a real criticism and is a valid point. Some people may disagree with the criticism but that doesn&#x27;t automatically make it invalid.<p>Actually in many ways a murder can be considered theft, due to the lost resources that person may have generated within a normal life span that is then deprived from a family member and&#x2F;or dependent. Usually such matters are handled in civil court. They are called wrongful death suits. Keep in mind, one does not need to be convicted of murder to be held monetarily liable for a person&#x27;s death. But this type of law varies from area to area so it could be quite different to you than it could be for me.<p>An easy example of this that has plenty of things to read about are the OJ Simpson cases. Other examples are lawsuits brought against law enforcement agencies for unjustified shootings.",
+        "time": 1413310230,
+        "type": "comment",
+        "processed": false
+    },
+    "8454803": {
+        "by": "bdauton",
+        "id": 8454802,
+        "score": 1,
+        "text": "",
+        "time": 1413310231,
+        "title": "Rifflicks",
+        "type": "story",
+        "url": "http://www.rifflicks.com",
+        "processed": false
+    },
+    "8454804": {
+        "by": "norswap",
+        "id": 8454803,
+        "parent": 8454289,
+        "text": "I use a bookmark keyword for this, so I prefix all my searches with &quot;g &quot;. Speed guaranteed!",
+        "time": 1413310241,
+        "type": "comment",
+        "processed": false
+    },
+    "8454805": {
+        "by": "rhino369",
+        "id": 8454804,
+        "parent": 8440705,
+        "text": "They can hold those truths self evident, but it isn&#x27;t self evident.",
+        "time": 1413310247,
+        "type": "comment",
+        "processed": false
+    },
+    "8454806": {
+        "by": "brd",
+        "id": 8454805,
+        "parent": 8454354,
+        "text": "Love the idea of Mtailor, I had considered trying something similar when the Microsoft Kinect first came out. Any plans for an Android App?",
+        "time": 1413310258,
+        "type": "comment",
+        "processed": false
+    },
+    "8454807": {
+        "by": "syntheticnature",
+        "id": 8454806,
+        "parent": 8451656,
+        "text": "I tried this once with a very large pen plotter (6&#x27; wide). The sole bidder on eBay had not read the description and was unable&#x2F;willing to work out shipment for themselves.<p>Note that this was before there was Craigslist in the area.",
+        "time": 1413310259,
+        "type": "comment",
+        "processed": false
+    },
+    "8454808": {
+        "by": "karthikk88",
+        "id": 8454807,
+        "parent": 8451711,
+        "text": "I hope that is a way to track all the changes the apps are going through. Would love to see its evolution, from beta to stable.",
+        "time": 1413310260,
+        "type": "comment",
+        "processed": false
+    },
+    "8454809": {
+        "by": "clamprecht",
+        "id": 8454808,
+        "parent": 8454585,
+        "text": "I could be wrong here, but I think quieter propellers may be <i>more</i> energy efficient.  Since noise is just energy, it&#x27;s wasted on noise rather than propulsion.  Case in point: Formula 1 engines this year are turbo, and are much quieter.  Many fans complain because they are too quiet!  But they are more efficient.",
+        "time": 1413310264,
+        "type": "comment",
+        "processed": false
+    },
+    "8454810": {
+        "by": "clamprecht",
+        "id": 8454808,
+        "parent": 8454585,
+        "text": "I could be wrong here, but I think quieter propellers may be <i>more</i> energy efficient.  Since noise is just energy, it&#x27;s wasted on noise rather than propulsion.  Case in point: Formula 1 engines this year are turbo, and are much quieter.  Many fans complain because they are too quiet!  But they are more efficient.",
+        "time": 1413310264,
+        "type": "comment",
+        "processed": false
+    },
+    "8454811": {
+        "by": "listic",
+        "id": 8454809,
+        "parent": 8454405,
+        "text": "1. How will the matchmaking site with real live matchmakers scale?<p>2. Why do you think the matchmaker will know who I&#x27;m seeking for, better than myself?",
+        "time": 1413310270,
+        "type": "comment",
+        "processed": false
+    },
+    "8454812": {
+        "by": "ossreality",
+        "dead": true,
+        "id": 8454810,
+        "parent": 8454531,
+        "text": "The reason App Store doesn&#x27;t support that is because they make too much money off devs currently to care.",
+        "time": 1413310272,
+        "type": "comment",
+        "processed": false
+    },
+    "8454813": {
+        "by": "planethozz",
+        "id": 8454812,
+        "score": 1,
+        "text": "",
+        "time": 1413310354,
+        "title": "The Lives of Ours: Snowden and Laura Poitras's Citizenfour",
+        "type": "story",
+        "url": "http://www.thebaffler.com/blog/lives-laura-poitrass-citizenfour/",
+        "processed": false
+    },
+    "8454814": {
+        "by": "mccr8",
+        "id": 8454813,
+        "parent": 8453987,
+        "text": "If you go to about:memory, you can get a better breakdown of how memory is being used.  If you see something that looks out of the ordinary, please file a bug in Bugzilla and add [MemShrink] to the whiteboard!",
+        "time": 1413310363,
+        "type": "comment",
+        "processed": false
+    },
+    "8454815": {
+        "by": "dannysu",
+        "id": 8454814,
+        "parent": 8453746,
+        "text": "I read the changelog and saw that proprietary window.crypto functions are removed. I actually make use of window.crypt.getRandomValues(), and good thing that&#x27;s not going away:\n<a href=\"https://wiki.mozilla.org/SecurityEngineering/Removing_Proprietary_window.crypto_Functions\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.mozilla.org&#x2F;SecurityEngineering&#x2F;Removing_Propri...</a>",
+        "time": 1413310396,
+        "type": "comment",
+        "processed": false
+    },
+    "8454816": {
+        "by": "xnull",
+        "id": 8454815,
+        "parent": 8451356,
+        "text": "This should not have been downvoted.<p>&quot;The company, which in 2010 blamed China for an attack on its computer networks, said it recently discovered the Gmail campaign, which &quot;appears to originate from Jinan, China,&quot; and targeted specific individuals.&quot; - <a href=\"http://americanpowerblog.blogspot.com/2011/06/china-hacks-google.html\" rel=\"nofollow\">http:&#x2F;&#x2F;americanpowerblog.blogspot.com&#x2F;2011&#x2F;06&#x2F;china-hacks-go...</a><p>&quot;Chinese hackers who breached Google’s servers several years ago gained access to a sensitive database with years’ worth of information about U.S. surveillance targets, according to current and former government officials.&quot; - <a href=\"http://www.washingtonpost.com/world/national-security/chinese-hackers-who-breached-google-gained-access-to-sensitive-data-us-officials-say/2013/05/20/51330428-be34-11e2-89c9-3be8095fe767_story.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.washingtonpost.com&#x2F;world&#x2F;national-security&#x2F;chines...</a>",
+        "time": 1413310407,
+        "type": "comment",
+        "processed": false
+    },
+    "8454817": {
+        "by": "solipsism",
+        "id": 8454816,
+        "parent": 8449849,
+        "text": "Of course you&#x27;re right.  I forgot the &quot;...&quot; at the end.",
+        "time": 1413310428,
+        "type": "comment",
+        "processed": false
+    },
+    "8454818": {
+        "by": "solipsism",
+        "id": 8454816,
+        "parent": 8449849,
+        "text": "Of course you&#x27;re right.  I forgot the &quot;...&quot; at the end.",
+        "time": 1413310428,
+        "type": "comment",
+        "processed": false
+    },
+    "8454819": {
+        "by": "Animats",
+        "id": 8454817,
+        "parent": 8454507,
+        "text": "Is Checkr just front-ending the API of other background check services and reselling them?<p>Intelus offers on-line background checks if you sign up as an &quot;affiliate&quot;: <a href=\"http://www.intelius.com/affiliates.php\" rel=\"nofollow\">http:&#x2F;&#x2F;www.intelius.com&#x2F;affiliates.php</a><p>So does &quot;backgroundchecks.com&quot;: <a href=\"http://www.backgroundchecks.com/resellers/apiproducts\" rel=\"nofollow\">http:&#x2F;&#x2F;www.backgroundchecks.com&#x2F;resellers&#x2F;apiproducts</a><p>There are lots of services in the background check area.  Checkr, at $25 per name, is kind of expensive.  &quot;backgroundchecks.com&quot; is only $15 if you buy 10 checks.<p>(I have an API which does background checks on web-based businesses. See<p><a href=\"http://www.sitetruth.com/doc/sitetruthapi.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.sitetruth.com&#x2F;doc&#x2F;sitetruthapi.html</a><p>Currently free.)",
+        "time": 1413310437,
+        "type": "comment",
+        "processed": false
+    },
+    "8454820": {
+        "by": "solipsism",
+        "id": 8454816,
+        "parent": 8449849,
+        "text": "Of course you&#x27;re right.  I forgot the &quot;...&quot; at the end.",
+        "time": 1413310428,
+        "type": "comment",
+        "processed": false
+    },
+    "8454821": {
+        "by": "Animats",
+        "id": 8454817,
+        "parent": 8454507,
+        "text": "Is Checkr just front-ending the API of other background check services and reselling them?<p>Intelus offers on-line background checks if you sign up as an &quot;affiliate&quot;: <a href=\"http://www.intelius.com/affiliates.php\" rel=\"nofollow\">http:&#x2F;&#x2F;www.intelius.com&#x2F;affiliates.php</a><p>So does &quot;backgroundchecks.com&quot;: <a href=\"http://www.backgroundchecks.com/resellers/apiproducts\" rel=\"nofollow\">http:&#x2F;&#x2F;www.backgroundchecks.com&#x2F;resellers&#x2F;apiproducts</a><p>There are lots of services in the background check area.  Checkr, at $25 per name, is kind of expensive.  &quot;backgroundchecks.com&quot; is only $15 if you buy 10 checks.<p>(I have an API which does background checks on web-based businesses. See<p><a href=\"http://www.sitetruth.com/doc/sitetruthapi.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.sitetruth.com&#x2F;doc&#x2F;sitetruthapi.html</a><p>Currently free.)",
+        "time": 1413310437,
+        "type": "comment",
+        "processed": false
+    },
+    "8454822": {
+        "by": "Animats",
+        "id": 8454817,
+        "parent": 8454507,
+        "text": "Is Checkr just front-ending the API of other background check services and reselling them?<p>Intelus offers on-line background checks if you sign up as an &quot;affiliate&quot;: <a href=\"http://www.intelius.com/affiliates.php\" rel=\"nofollow\">http:&#x2F;&#x2F;www.intelius.com&#x2F;affiliates.php</a><p>So does &quot;backgroundchecks.com&quot;: <a href=\"http://www.backgroundchecks.com/resellers/apiproducts\" rel=\"nofollow\">http:&#x2F;&#x2F;www.backgroundchecks.com&#x2F;resellers&#x2F;apiproducts</a><p>There are lots of services in the background check area.  Checkr, at $25 per name, is kind of expensive.  &quot;backgroundchecks.com&quot; is only $15 if you buy 10 checks.<p>(I have an API which does background checks on web-based businesses. See<p><a href=\"http://www.sitetruth.com/doc/sitetruthapi.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.sitetruth.com&#x2F;doc&#x2F;sitetruthapi.html</a><p>Currently free.)",
+        "time": 1413310437,
+        "type": "comment",
+        "processed": false
+    },
+    "8454823": {
+        "by": "mafuyu",
+        "id": 8454818,
+        "score": 1,
+        "text": "",
+        "time": 1413310443,
+        "title": "Google Glass user treated for Internet addiction caused by the device",
+        "type": "story",
+        "url": "http://www.theguardian.com/science/2014/oct/14/google-glass-user-treated-addiction-withdrawal-symptoms",
+        "processed": false
+    },
+    "8454824": {
+        "by": "listic",
+        "id": 8454819,
+        "parent": 8454632,
+        "text": "<p><pre><code>    Spam. Spam spam spam spam spam spam. More spam.\n</code></pre>\nCould you please elaborate? Do women get spammed a lot? Do males have to spam to be spoken to?",
+        "time": 1413310444,
+        "type": "comment",
+        "processed": false
+    },
+    "8454825": {
+        "by": "wy",
+        "id": 8454820,
+        "parent": 8454503,
+        "text": "Can anyone explain the reason of &quot;Down-vote&#x2F;Negative&quot; points? without",
+        "time": 1413310448,
+        "type": "comment",
+        "processed": false
+    },
+    "8454826": {
+        "by": "whiskykilo",
+        "id": 8454821,
+        "score": 1,
+        "text": "",
+        "time": 1413310452,
+        "title": "Exhaustion – The Side Effect of Working in IT",
+        "type": "story",
+        "url": "https://whiskykilo.com/exhaustion/",
+        "processed": false
+    },
+    "8454827": {
+        "by": "wy",
+        "id": 8454820,
+        "parent": 8454503,
+        "text": "Can anyone explain the reason of &quot;Down-vote&#x2F;Negative&quot; points? without",
+        "time": 1413310448,
+        "type": "comment",
+        "processed": false
+    },
+    "8454828": {
+        "by": "acdha",
+        "id": 8454822,
+        "parent": 8454787,
+        "text": "PPK wrote about this awhile back in the context of Smart TVs as well:<p><a href=\"http://www.quirksmode.org/blog/archives/tv/index.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.quirksmode.org&#x2F;blog&#x2F;archives&#x2F;tv&#x2F;index.html</a><p>The big thing missing is a way to query expected viewing distance so you could distinguish between a 1080 laptop screen 14 inches from the user and a TV 10 feet away.",
+        "time": 1413310459,
+        "type": "comment",
+        "processed": false
+    },
+    "8454829": {
+        "by": "mccr8",
+        "id": 8454823,
+        "parent": 8454024,
+        "text": "We&#x27;re still working just as hard on improving the memory usage of Firefox.  We have MemShrink meetings every other week.  Our focus on FirefoxOS has made improving memory usage more important than ever.",
+        "time": 1413310481,
+        "type": "comment",
+        "processed": false
+    },
+    "8454830": {
+        "by": "apayan",
+        "id": 8454824,
+        "parent": 8454734,
+        "text": "For what it&#x27;s worth, WKWebView is still astonishingly buggy and hangs quite a bit when loading some pages with XHRs. There are some other bugs that trigger these 10+ second hangs, but we couldn&#x27;t delay shipping anymore so we reverted back to UIWebView.",
+        "time": 1413310486,
+        "type": "comment",
+        "processed": false
+    },
+    "8454831": {
+        "by": "apayan",
+        "id": 8454824,
+        "parent": 8454734,
+        "text": "For what it&#x27;s worth, WKWebView is still astonishingly buggy and hangs quite a bit when loading some pages with XHRs. There are some other bugs that trigger these 10+ second hangs, but we couldn&#x27;t delay shipping anymore so we reverted back to UIWebView.",
+        "time": 1413310486,
+        "type": "comment",
+        "processed": false
+    },
+    "8454832": {
+        "by": "potatolicious",
+        "id": 8454825,
+        "parent": 8454775,
+        "text": "I don&#x27;t think so. While most spammers aren&#x27;t particularly sophisticated, it doesn&#x27;t take a genius to figure out you can copy-paste formulaic messages to hundreds of women in only a few minutes.<p>Even a user who isn&#x27;t particularly nefarious and say, sends 20 original (not copy-pasted) messages each session, it&#x27;s still an <i>overwhelming</i> amount of messages for women to sort through.<p>It&#x27;s important to note that when I say &quot;spam&quot; I don&#x27;t just mean &quot;bad actors who deliberately attempt to game the system&quot;. I mean that even what appears to a user as a &quot;natural&quot; amount of messages in fact makes the system nearly unusable. It&#x27;s almost trivial for female users to end up with literally hundreds of messages per day - just managing the messages themselves is a chore, much less viewing the profiles associated.",
+        "time": 1413310495,
+        "type": "comment",
+        "processed": false
+    },
+    "maxItem": 8454829
+}
