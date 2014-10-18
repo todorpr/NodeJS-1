@@ -1,6 +1,3 @@
-/**
- * Created by Todor on 10/14/2014.
- */
 //    POST /subscribe - as explained above, this creates a new subscriber
 //    POST /unsubscribe - takes a JSON payload with a single "subscriberId" and unsubscribes it if possible
 //    GET /listSubscribers - returns a list of all subscribers with their emails, ids and keywords. This is great for testing purposes

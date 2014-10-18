@@ -9,9 +9,9 @@ var fs = require("fs");
 var bodyParser = require('body-parser');
 var Mailgun = require('mailgun-js');
 
-var api_key = 'key-97c70f32b639db8a9b39f0f541f56677';
-var domain = 'sandbox0f81ec7d7a0746f4adf1514aec78e0d1.mailgun.org';
-var from_who = 'asadasdasdsadasdd@gmail.com';
+var api_key = 'YOUR_API_KEY';
+var domain = 'YOUR_MAILGUN_DOMAIN.mailgun.org';
+var from_who = 'someweiredemailname@gmail.com';
 
 var subscribers = {};
 var articles = {};
@@ -24,29 +24,17 @@ var count = 0;
 app.get('/newArticles', function(req, res){
     res.send('Notifier pinged ' + count);
     count++;
-    //readArticles();
-    //sendMail();
+    readSubscribers();
 });
 
 app.listen(3333);
-//sendMail();
-readSubscribers();
-
-
-//function readArticles(){
-//    fs.readFile("articles.json", function (err, data) {
-//        if (err) throw err;
-//        var content = JSON.parse(data.toString());
-//        articles = content;
-//    });
-//}
 
 function createArticlesJson(){
     fs.writeFile("articles.json", JSON.stringify(json, null, 4), function(err) {
         if(err) {
             console.log(err);
         } else {
-            console.log("JSON saved to config.json");
+            console.log("JSON saved to articles.json");
         }
     });
 }
@@ -57,7 +45,7 @@ function sendMail(email, html){
 
     var data = {
       from: from_who,
-      to: email,//'tprikumov@gmail.com',
+      to: email,//'somemail@gmail.com',
       subject: 'Hello from Mailgun',
       html: html//'Hello, This is not a plain-text email, I wanted to test some spicy Mailgun sauce in NodeJS! <a href="http://0.0.0.0:3030/validate>Click here to add your email address to a mailing list</a>'
     };

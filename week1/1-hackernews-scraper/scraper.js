@@ -83,7 +83,7 @@ function createArticlesJson(){
         if(err) {
             console.log(err);
         } else {
-            console.log("JSON saved to config.json");
+            console.log("JSON saved to articles.json");
         }
     });
 }
