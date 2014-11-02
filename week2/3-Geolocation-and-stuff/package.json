@@ -1,0 +1,18 @@
+{
+  "name": "3-Geolocation-and-stuff",
+  "version": "0.0.1",
+  "description": "Geospatial indexes in mongo allow us to make \"geo requests\" to our data such as:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "express": "^4.10.0",
+    "mongodb": "^1.4.19",
+    "q": "^1.0.1"
+  }
+}
