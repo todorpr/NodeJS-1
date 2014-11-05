@@ -1,0 +1,38 @@
+h1, h2, h3, div, textarea, span {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#wrapper {
+    width: 760px;
+    margin: 0 auto;
+}
+.snippet {
+    margin-bottom: 20px;
+}
+h1 {
+    text-align: center;
+}
+.header {
+    background: #777;
+    padding: 5px;
+    color: #fff;
+}
+
+textarea {
+    background: #ccc;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+.filename {
+    float: right;
+}
+.author-link {
+    text-decoration: none;
+    color: #00b3ee;
+    padding-left: 10px;
+}
+/*span.author, span.filename {*/
+    /*margin: 5px;*/
+/*}*/

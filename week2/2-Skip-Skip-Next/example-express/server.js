@@ -7,6 +7,7 @@ var MongoClient = require('mongodb').MongoClient;
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
+
 var data = [
     {
       "rank": 1,

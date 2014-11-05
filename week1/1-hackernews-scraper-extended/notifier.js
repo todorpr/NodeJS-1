@@ -6,8 +6,8 @@ var fs = require("fs");
 var bodyParser = require('body-parser');
 var Mailgun = require('mailgun-js');
 
-var api_key = 'key-NUM';
-var domain = 'sandbox**********************.mailgun.org';
+var api_key = 'key-97c70f32b639db8a9b39f0f541f56677';
+var domain = 'sandbox0f81ec7d7a0746f4adf1514aec78e0d1.mailgun.org';
 var from_who = 'SomeWeiredeMailName@DomainName.com';
 
 var subscribers = {};
