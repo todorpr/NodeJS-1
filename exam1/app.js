@@ -12,10 +12,8 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 app.use(express.static(path.join(__dirname, 'public')));
 
-var config = require('./config.js');
-var db = require('./db.js')(mongoose, q);
-var router = require('./router.js')(express, db, app);
-
+require('./config');
+var router = require('./router');
 app.use("/", router);
 
 app.listen(8000);

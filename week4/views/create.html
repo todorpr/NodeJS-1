@@ -1,0 +1,23 @@
+<!DOCTYPE html><html><head><title>Code Snippet Engine - Homepage</title><link rel="stylesheet" href="/css/style.css"><script src="/js/jquery-1.9.1.min.js"></script></head><body><div id="wrapper"><div class="snippet"><div class="header"><h1>Code Snippet Engine</h1><nav class="navigation"><a href="/all">All</a><a href="/all">All</a><a href="/create">Create</a></nav></div></div><div class="snippet"><form id="createForm" action="/create" class="create-snippet"><div class="header"><span class="author">Creator:<input type="text" placeholder="Creator name..." class="author-name"></span><span class="language">Language:<input type="text" placeholder="Language..." class="language-input"></span><span class="filename">Filename:<input type="text" placeholder="Creator name..." class="file-name"></span></div><div class="content"><textarea class="code"></textarea></div><div class="footer"><input id="submit" type="Submit" value="Create snippet"></div></form></div><script>$("#submit").click(function(e){
+    var creatorName = $('.author-name').val();
+    var fileName = $('.file-name').val();
+    var code = $('textarea.code').val();
+    var language = $('.language-input').val();
+    var formData = {
+        language: language,
+        fileName: fileName,
+        code: code,
+        creator: creatorName
+    }
+    $.ajax({
+        type: "POST",
+        url: "http://localhost:8000/create",
+        data: formData
+        })
+        .done(function(data) {
+            console.log(data);
+        })
+        .fail(function(error) {
+            console.log(error);
+        });
+});</script></div></body></html>

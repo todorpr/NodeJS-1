@@ -1,0 +1,39 @@
+extends ./layout.jade
+block content
+    .snippet
+        form#createForm.create-snippet(action='/create')
+            .header
+                span.author Creator:
+                    input.author-name(type='text', placeholder='Creator name...')
+                span.language Language:
+                    input.language-input(type='text', placeholder='Language...')
+                span.filename Filename:
+                    input.file-name(type='text', placeholder='Creator name...')
+            .content
+                textarea.code
+            .footer
+                input#submit(type='Submit', value='Create snippet')
+    script.
+        $("#submit").click(function(e){
+            var creatorName = $('.author-name').val();
+            var fileName = $('.file-name').val();
+            var code = $('textarea.code').val();
+            var language = $('.language-input').val();
+            var formData = {
+                language: language,
+                fileName: fileName,
+                code: code,
+                creator: creatorName
+            }
+            $.ajax({
+                type: "POST",
+                url: "http://localhost:8000/create",
+                data: formData
+                })
+                .done(function(data) {
+                    console.log(data);
+                })
+                .fail(function(error) {
+                    console.log(error);
+                });
+        });

@@ -3,3 +3,5 @@ git add -all
 git commit -m="Some message text"
 git pull https://github.com/todorpr/NodeJS-1.git
 git push origin master
+
+mongoexport --db smart-phonebook --collection groups --out dbGroups.json

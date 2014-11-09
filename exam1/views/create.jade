@@ -1,0 +1,37 @@
+extends ./layout.jade
+block content
+    .contact
+        form#createContactForm(role='form', action='/create')
+            .form-group
+                label(for='contactNumber') Contact number
+                input#contactNumber.form-control(type='number', placeholder='Contacts number...')
+            .form-group
+                label(for='personalIdentifier') Name
+                input#personalIdentifier.form-control(type='text', placeholder='Contacts name...')
+
+            button#submit.btn.btn-success(type='submit') Create contact
+
+    script.
+        $("#submit").click(function(e){
+            e.stopPropagation();
+            e.preventDefault();
+            var contactNumber = $('#contactNumber').val();
+            var personalIdentifier = $('#personalIdentifier').val();
+            var formData = {
+                    phoneNumber: contactNumber,
+                    personalIdentifier: personalIdentifier
+                };
+            (contactNumber != "" && personalIdentifier != "") && $.ajax({
+                type: "POST",
+                url: "http://localhost:8000/create",
+                data: formData
+            })
+                    .done(function(data) {
+                        console.log(data);
+                        $('#contactNumber').val('')
+                        $('#personalIdentifier').val('');
+                    })
+                    .fail(function(error) {
+                        console.log(error);
+                    });
+        });

@@ -1,29 +1,51 @@
-h1, h2, h3, div, textarea, span {
+h1, h2, h3, div, textarea, span, form {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Verdana;
+    font-size: 15px;
+}
+input {
+    width: 100px;
+}
 #wrapper {
     width: 760px;
     margin: 0 auto;
+    background: #777;
+    padding: 10px;
 }
 .snippet {
     margin-bottom: 20px;
 }
 h1 {
-    text-align: center;
+    width: 310px;
+    display: inline-block;
+    float: left;
+    font-size: 26px;
+    line-height: 40px;
 }
 .header {
-    background: #777;
-    padding: 5px;
+    //background: #777;
+    padding: 10px;
     color: #fff;
+    clear: both;
+    overflow: hidden;
 }
 
 textarea {
     background: #ccc;
     width: 100%;
-    height: auto;
+    min-height: 200px;
     padding: 5px;
+}
+.language {
+    /*position: relative;
+    left: 50%;
+    margin-left: -155px;*/
+    margin-left: 35px;
 }
 .filename {
     float: right;
@@ -33,6 +55,19 @@ textarea {
     color: #00b3ee;
     padding-left: 10px;
 }
-/*span.author, span.filename {*/
-    /*margin: 5px;*/
-/*}*/
+nav.navigation {
+    float: right;
+    padding-top: 5px;
+}
+nav.navigation a {
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    background: #00b3ee;
+    color: #fff;
+    margin-left: 10px;
+}
+nav.navigation a:hover {
+    background: #333333;
+    color: #00b3ee;
+}

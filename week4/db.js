@@ -1,16 +1,8 @@
+var snippetModel = require('./models/snippet.js');
+
 module.exports = function(mongoose, q){
-    mongoose.connect('mongodb://localhost/code-snippet');
 
-    var Schema = mongoose.Schema;
-
-    var codeSnippetSchema = new Schema({
-        "language": String,
-        "fileName": String,
-        "code": String,
-        "creator": String
-    });
-
-    var Snippet = mongoose.model('Snippet', codeSnippetSchema);
+    var Snippet = snippetModel;
 
     var findAll = function(){
         var def = q.defer();

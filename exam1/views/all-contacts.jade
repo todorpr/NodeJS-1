@@ -1,0 +1,17 @@
+extends ./layout.jade
+mixin article(c)
+   .row
+      .col-sm-5 #{c.personalIdentifier}
+      .col-sm-5 #{c.phoneNumber}
+      .col-sm-2
+         a.btn.btn-success(href='/contact/' + c._id) View
+block content
+   .panel.panel-primary
+      .panel-heading
+         .row
+            .col-sm-5 Contact name
+            .col-sm-7 Number
+      .panel-body
+         - if(typeof(contacts) != "undefined")
+            each c in contacts
+               +article(c)

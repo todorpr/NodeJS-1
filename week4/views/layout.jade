@@ -4,5 +4,14 @@ html
       block title
          title Code Snippet Engine - Homepage
       link(rel='stylesheet', href='/css/style.css')
+      script(src='/js/jquery-1.9.1.min.js')
    body
-      block content
+       #wrapper
+           .snippet
+               .header
+                   h1 Code Snippet Engine
+                   nav.navigation
+                        a(href='/all') All
+                        a(href='/all') All
+                        a(href='/create') Create
+           block content

@@ -1,0 +1,14 @@
+extends ./layout.jade
+mixin article(el)
+    .snippet
+        .header
+            span.author Created by
+            a.author-link(href='/allByCreator/' + el.creator) #{el.creator}
+            span.language Language: #{el.language}
+            span.filename Filename: #{el.fileName}
+        .content
+            textarea= el.code
+block content
+        - if(typeof(creators) != "undefined")
+        each el in creators
+            +article(el)
