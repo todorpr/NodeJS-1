@@ -8,6 +8,7 @@ function Sitemap(){
     this.isCrawling = false;
     this.count = 0;
     this.currentMapId = null;
+    this.crawled = [];
 }
 
 var Maps = mapModel;
@@ -15,6 +16,7 @@ var Maps = mapModel;
 Sitemap.prototype.createMap = function(urlReq){
     var def = q.defer();
     var that = this;
+    this.crawled.push(urlReq);
     var map = new Maps({
         status: "currently crawling",
         sitemap: {
@@ -71,14 +73,15 @@ function loopRequests (fn, url, that) {
 
 function parseUrls(urls, rootUrl){
     var urlArr = [];
-    console.log(rootUrl);
-    var root = new URL(rootUrl).hostname.replace("www.", "");
+    var matches = rootUrl.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+    var domain = matches && matches[1].replace("www.", "");
     Object.keys(urls).forEach(function(urlObj){
         var url = urls[urlObj] && urls[urlObj].attribs && urls[urlObj].attribs.href;
-        var host = url && new URL(url).hostname.replace("www.", "");
+        var matches = url && url.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i);
+        var host = matches && matches[1].replace("www.", "");
 
         //if(url && url.match(/.*(?:.reddit.com).*$/)){
-        if(url && host == root){
+        if(url && host == domain){
             urlArr.push(url);
         }
     });
@@ -91,12 +94,12 @@ Sitemap.prototype.scrapeUrls = function(url, that){
     var options = {
         url: url
     };
-    var links = this.links;
-    console.log("Crawled: ", url);
+    //console.log("Crawled: ", url);
     request(options, function (error, response, body) {
         if (!error && response.statusCode == 200) {
             var anchors = $(body).find("a");
             var realUrls = parseUrls(anchors, url);
+            //console.log(realUrls);
             that.links = that.links.concat(realUrls);
 
             def.resolve(realUrls);

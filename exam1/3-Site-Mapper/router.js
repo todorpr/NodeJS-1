@@ -25,6 +25,7 @@ var express = require('express'),
                 res.send(sitemap);
             } else {
                 map.isCrawling = true;
+                console.log("Crawling started...");
                 map.createMap(req.body.url).then(function(id){
                     res.send({ _id: id});
                     console.log("Crawling finished!");
