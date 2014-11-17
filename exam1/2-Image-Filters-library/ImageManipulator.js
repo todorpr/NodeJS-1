@@ -50,13 +50,10 @@ ImageManipulator.prototype.convolve = function(img, ker, fact){
 
             var subSum = 0;
             for(var krKer = 0, krImg = (r - diff); krKer < ker[0].length; krImg += 1, krKer +=1){
-                //var row = "";
                 for(var kcKer = 0, kcImg = (c - diff); kcKer < ker[0].length; kcImg += 1, kcKer +=1){
-                    //row += krImg < 0 || kcImg < 0 || kcImg > A[0].length - 1 || krImg > A[0].length - 1 ? "n " : (A[krImg][kcImg] + " ");
                     subSum += (krImg < 0 || kcImg < 0 || kcImg > img[0].length - 1 || krImg > img[0].length - 1 ? 0 : (img[krImg][kcImg] * ker[krKer][kcKer] * factor))
 
                 }
-                //console.log(row);       
             }
             subArr.push(subSum);
         }

@@ -1,4 +1,4 @@
-var Contact = require('./Contact')
+var Contact = require('./Contact'),
     Group = require('./Group'),
     express = require('express');
 
