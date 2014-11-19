@@ -22,7 +22,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set('view engine', 'ejs');
 
-app.use(session());
+app.use(session({    secret: "whatever"   }));
 app.use(passport.initialize());
 app.use(passport.session());
 app.use(flash());
