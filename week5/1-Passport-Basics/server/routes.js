@@ -1,4 +1,6 @@
-module.exports = function(app, passport) {
+var passport = require('passport');
+
+module.exports = function(app) {
 
 	app.get('/', isLoggedIn, function(req, res) {
 		res.render('index.ejs', {
