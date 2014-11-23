@@ -1,0 +1,24 @@
+<h2>Github</h2>
+<% if (user.github && user.github.token) { %>
+
+<p>
+    <strong>id</strong>: <%= user.github.id %><br>
+    <strong>token</strong>: <%= user.github.token %><br>
+    <strong>name</strong>: <%= user.github.username %><br>
+</p>
+<% } %>
+
+<h2>Facebbok</h2>
+<% if (user.facebook && user.facebook.token) { %>
+<p>
+    <strong>id</strong>: <%= user.facebook.id %><br>
+    <strong>token</strong>: <%= user.facebook.token %><br>
+    <strong>email</strong>: <%= user.facebook.email %><br>
+    <strong>name</strong>: <%= user.facebook.name %><br>
+</p>
+
+<a href="/unlink/facebook" class="btn btn-primary">Unlink</a>
+<% } else { %>
+<a href="/connect/facebook" class="btn btn-primary">Connect Facebook</a>
+<% } %>
+

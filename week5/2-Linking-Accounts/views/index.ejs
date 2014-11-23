@@ -1,0 +1,8 @@
+
+<% if (!user) { %>
+	<h2>Welcome! Please <a href="/login">log in</a>.</h2>
+<% } else { %>
+	<h2>Hello, <%= (user.github && user.github.username) || (user.facebook && user.facebook.name) %>.</h2>
+    <a href="/account">Got to account</a><br>
+<a href="/logout">Logout</a>
+<% } %>
