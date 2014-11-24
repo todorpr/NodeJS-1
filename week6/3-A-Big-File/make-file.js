@@ -22,12 +22,12 @@ function makeFile(){
 }
 
 function loop(){
-    for(var i = 0;i < 1000000;i+= 1){
+    for(var i = 0;i < 100;i+= 1){
         makeFile();
     }
     getFileSize().then(function(size){
         console.log("Size is: " + size / 1000000 + " MB");
-        if(size < 100000000){ // 10 000 000 = 10MB
+        if(size < 1000){ // 10 000 000 = 10MB
 
             fs.readFile(fileName, function (err, content) {
                 if (err) throw err;
