@@ -1,0 +1,16 @@
+{
+  "name": "2-HTTP-Proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4",
+    "http-proxy": "^1.7.0",
+    "url": "^0.10.1"
+  }
+}
