@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+<head>
+	<title>Simple Passport Login</title>
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <script src="/libs/socket.io.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+</head>
+<body>
+<div class="container">
+
+	<div class="text-center well">
+		<h1><span class="fa"></span> Welcome, <%= (user && user.username) ? user.username : 'Guest' %></h1>
+
+		<% if (user && user.username) { %>
+		<p>
+			<strong>id</strong>: <%= user._id %><br>
+			<strong>user</strong>: <%= user.username %><br>
+			<strong>password</strong>: <%= user.password %>
+
+		</p>
+		<% } %>
+		<a href="/logout" class="btn btn-default btn-sm">Logout</a>
+	</div>
+    <div id="chat-logic">
+        <script>
+
+            var socket = io.connect('http://localhost:8080');
+            var user = <%- JSON.stringify(user.username) %>
+            var allRooms = <%- JSON.stringify(rooms) %>
+            socket.on('connect', function(){
+                socket.emit('adduser', user );
+            });
+
+            socket.on('updatechat', function (username, data) {
+                $('#conversation').append('<b>'+username + ':</b> ' + data + '<br>');
+            });
+
+            socket.on('updatechat2', function (username, data) {
+                $('#server-response').append('<b>'+username + ':</b> ' + data + '<br>');
+            });
+
+            socket.on('updaterooms', function(rms, current_room) {
+
+                rearrangeRooms(rms, current_room)
+            });
+
+            function rearrangeRooms(rms, current_room) {
+                var curr_room = current_room || rms[0].name;
+                $('#rooms').empty();
+                $.each(rms, function(key, value) {
+                    if(value.name == curr_room){
+                        $('#rooms').append('<li role="presentation" class="active"><a>' + value.name + '</a></li>');
+                    }
+                    else {
+                        $('#rooms').append('<li role="presentation"><a href="#">' + value.name + '</a></li>');
+                    }
+                });
+            }
+
+            function switchRoom(room){
+                socket.emit('switchRoom', room);
+
+                return false;
+            }
+
+            $(document).ready(function(){
+                $('#datasend').click( function() {
+                    var message = $('#data').val();
+                    $('#data').val('');
+                    $('#data').focus();
+                    socket.emit('sendchat', message);
+                });
+
+                $('#data').keypress(function(e) {
+                    if(e.which == 13) {
+                        $(this).blur();
+                        $('#datasend').focus().click();
+                    }
+                });
+
+                $("#create-btn").click(function (e) {
+                    e.stopPropagation();
+                    e.preventDefault();
+                    var name = $("#room-name").val();
+                    $('#rooms').append('<div>' + name + '</div>');
+                    $("#room-name").val('');
+                    $.ajax({
+                        url: "/createRoom",
+                        type: "POST",
+                        data: { name: name }
+                    }).done(function() {
+                        switchRoom(name);
+                    });
+                });
+
+                $("#rooms").click(".room", function (e) {
+                    switchRoom($(e.target).text());
+                    e.stopPropagation();
+                    e.preventDefault();
+                    return false;
+                });
+            });
+
+        </script>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h3>Create Room</h3>
+                        <div class="input-group">
+                                <input type="text" id="room-name" class="form-control">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" id="create-btn" type="button">Create!</button>
+                                </span>
+                        </div><!-- /input-group -->
+                    </div><!-- /.col-lg-6 -->
+                    <div class="col-md-12">
+                        <h3>Rooms</h3>
+                        <div class="rooms-wrapper">
+                            <ul id="rooms" class="nav nav-pills nav-stacked">
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <h3>Conversation</h3>
+                <div class="talks-wrapper">
+                    <div id="conversation"></div>
+                </div>
+                <div id="input">
+                    <div class="input-group">
+                        <input type="text" id="data" class="form-control">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" id="datasend" type="button">Send!</button>
+                        </span>
+                    </div><!-- /input-group -->
+                </div>
+
+            </div>
+
+            <div class="col-md-4">
+                <h3>Server response</h3>
+                <div id="server-response"></div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+</body>
+</html>

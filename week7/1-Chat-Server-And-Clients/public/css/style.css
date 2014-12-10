@@ -1,0 +1,11 @@
+#rooms {
+    height: 300px;
+}
+
+#conversation {
+    height: 360px;
+}
+
+.rooms-wrapper, .talks-wrapper {
+    overflow: auto;
+}
